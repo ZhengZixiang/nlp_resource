@@ -49,6 +49,7 @@
 
 ### 文本分类
 - [**cnn-text-classification-tf**](https://github.com/dennybritz/cnn-text-classification-tf) - 基于TensorFlow的CNN文本分类
+- [**Text-Classification-Models-Pytorch**](https://github.com/AnubhavGupta3377/Text-Classification-Models-Pytorch) - 基于PyTorch实现多种文本分类模型
 - [**NeuralClassifier**](https://github.com/Tencent/NeuralNLP-NeuralClassifier) - 腾讯开源的基于PyTorch的多模型多类型任务文本分类工具
 
 ### 预训练语言模型与Transformer
