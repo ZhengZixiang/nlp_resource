@@ -70,7 +70,8 @@
 - [**GPT-2-Pytorch Text-Generator**](https://github.com/graykode/gpt-2-Pytorch) - GPT-2文本生成实现
 - [**GPT2-Chinese**](https://github.com/Morizeyao/GPT2-Chinese) - GPT-2中文训练代码
 - [**XLNet**](https://github.com/zihangdai/xlnet) - Google [XLNet](https://arxiv.org/abs/1906.08237)实现
-- [**OpenCLaP**](https://github.com/thunlp/OpenCLaP) - 清华大学开源的多领域（民事、刑事、百度百科）中文预训练语言模型仓库
+- [**OpenCLaP**](https://github.com/thunlp/OpenCLaP) - 清华大学开源的多领域（民事、刑事、百度百科）中文BERT模型
+- [**BAAI-JDAI-BERT**](https://github.com/jd-aig/nlp_baai) - 2019智源京东对话挑战赛（BAAI-JD）提供的基于42GB客服语料训练的BERT和word2vec模型
 - [**Chinese-BERT-wwm模型**](https://github.com/ymcui/Chinese-BERT-wwm)
 - [**XLNet中文预训练模型**](https://github.com/ymcui/Chinese-PreTrained-XLNet)
 - [**RoBERTa中文预训练模型**](https://github.com/brightmart/roberta_zh)
