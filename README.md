@@ -119,6 +119,7 @@
 - [**wikiextractor**](https://github.com/attardi/wikiextractor) - 维基百科语料抽取工具
 
 ## 网站与博客
+- [**AI研习社**](https://www.yanxishe.com)
 - [**NLP Progress**](https://nlpprogress.com/)
 - [**NLPJob**](http://www.nlpjob.com)
 - [**专知**](https://www.zhuanzhi.ai)
