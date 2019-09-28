@@ -33,6 +33,7 @@
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 - [TensorFlow Wide And Deep模型详解与应用](https://blog.csdn.net/heyc861221/article/details/80131369)
+- [初入NLP领域的一些小建议](https://zhuanlan.zhihu.com/p/59184256)
 - [互联网时代的社会语言学：基于SNS的文本数据挖掘](http://www.matrix67.com/blog/archives/5044)
 - [基于凝聚度和自由度的非监督词库生成](http://zhanghonglun.cn/blog/project/基于凝聚度和自由度的非监督词库生成/)
 - [基于今日头条开源数据的词共现、新热词发现、短语发现](https://blog.csdn.net/sinat_26917383/article/details/80454736)
