@@ -16,6 +16,7 @@
 ## 代码、工具与项目
 ### 入门教程
 - [**nlp-tutorial**](https://github.com/lyeoni/nlp-tutorial) - 基于PyTorch的深度学习NLP入门代码
+- [**NLP-Projects**](https://github.com/gaoisbest/NLP-Projects) - NLP多种类型项目合集
 
 ### 通用深度学习自然语言处理框架与工具
 - [**AllenNLP**](https://allennlp.org) - Allen团队开发的基于PyTorch的NLP框架，其中有包括ELMo等多种模型实现
@@ -119,8 +120,11 @@
 
 ## 网站与博客
 - [**NLP Progress**](https://nlpprogress.com/)
+- [**NLPJob**](http://www.nlpjob.com)
 - [**专知**](https://www.zhuanzhi.ai)
 - [**机器之心SOTA模型**](https://www.jiqizhixin.com/sota)
+### 相关团队与实验室
+- [**Tencent AI Lab**](https://ai.tencent.com/ailab/nlp/)
 
 ## 论文集与其他资源集
 - [**awesome bert**](https://github.com/Jiakui/awesome-bert) - BERT相关资源集
