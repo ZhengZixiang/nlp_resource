@@ -2,16 +2,16 @@
 本仓库用于存放我个人所需要的和收集的自然语言处理以及部分其他领域的资源合集。
 
 ## 书籍、课程与笔记
-- [Deep Learning Book](https://www.deeplearningbook.org)
-- [Deep Learning Book中文版](https://github.com/exacity/deeplearningbook-chinese)
-- [Learning from Data笔记](https://github.com/Doraemonzzz/Learning-from-data)
-- [Python进阶中文版](https://github.com/eastlakeside/interpy-zh)
-- [Speech and Language Processing第三版](https://web.stanford.edu/~jurafsky/slp3/)
-- [卡内基梅隆大学2019春 CS 11-747](http://phontron.com/class/nn4nlp2019/index.html)
-- [斯坦福大学2019春 CS224n](http://web.stanford.edu/class/cs224n/)
-- [神经网络与深度学习](https://nndl.github.io) - 复旦邱锡鹏老师编写的教材
-- [NLP研究入门之道](https://github.com/zibuyu/research_tao) - 清华刘知远老师的NLP科研指导
-- [统计学习方法笔记与代码实现](https://github.com/fengdu78/lihang-code)
+- [**Deep Learning Book**](https://www.deeplearningbook.org)
+- [**Deep Learning Book中文版**](https://github.com/exacity/deeplearningbook-chinese)
+- [**Learning from Data笔记**](https://github.com/Doraemonzzz/Learning-from-data)
+- [**Python进阶中文版**](https://github.com/eastlakeside/interpy-zh)
+- [**Speech and Language Processing第三版**](https://web.stanford.edu/~jurafsky/slp3/)
+- [**卡内基梅隆大学2019春 CS 11-747**](http://phontron.com/class/nn4nlp2019/index.html)
+- [**斯坦福大学2019春 CS224n**](http://web.stanford.edu/class/cs224n/)
+- [**神经网络与深度学习**](https://nndl.github.io) - 复旦邱锡鹏老师编写的教材
+- [**NLP研究入门之道**](https://github.com/zibuyu/research_tao) - 清华刘知远老师的NLP科研指导
+- [**统计学习方法笔记与代码实现**](https://github.com/fengdu78/lihang-code)
 
 ## 代码、工具与项目
 ### 入门教程
@@ -91,6 +91,12 @@
 - [**ChatBotCourse**](https://github.com/warmheartli/ChatBotCourse) - 自己动手做聊天机器人教程
 - [**kbqa**](https://github.com/wavewangyue/kbqa) - 基于知识库的问答系统实现
 
+### 命名实体识别
+- [**BioNER-Progress**](https://github.com/lingluodlut/BioNER-Progress) - 生物医学领域命名实体识别进展跟踪
+
+### 知识图谱
+- [**lightKG**](https://github.com/smilelight/lightKG) - 他人基于PyTorch和TorchText实现的知识图谱技术框架
+
 ### 关键词抽取
 - [**keyword_extraction**](https://github.com/AimeeLee77/keyword_extraction) - 使用tfidf、TextRank和word2vec实现中文关键词抽取
 
@@ -121,6 +127,7 @@
 - [**wikiextractor**](https://github.com/attardi/wikiextractor) - 维基百科语料抽取工具
 
 ## 网站与博客
+此处仅提供NLP相关站点，优秀博客请链接[blog.md](https://github.com/ZhengZixiang/nlp_resource/blob/master/blog.md)。
 - [**AI研习社**](https://www.yanxishe.com)
 - [**NLP Progress**](https://nlpprogress.com/)
 - [**NLPJob**](http://www.nlpjob.com)
@@ -145,8 +152,11 @@
 - [**awesome text generation**](https://github.com/ChenChengKuan/awesome-text-generation) - 文本生成资源集
 - [**awesome chinese nlp**](https://github.com/crownpku/Awesome-Chinese-NLP) - 中文自然语言处理资源集
 - [**DL-NLP-Readings**](https://github.com/IsaacChanghau/DL-NLP-Readings) - 他人的自然语言处理论文集
+- [**Deep Learning with Electronic Health Record (EHR) Systems**](https://practicalai.me/blog/deep-learning-with-ehr-systems) - 深度学习下电子病历系统研究
 - [**Research-Line**](https://github.com/ConanCui/Research-Line) - 他人的知识图谱、异构网络、图嵌入与推荐系统论文集
 - [**classical reco papers**](https://github.com/wzhe06/Reco-papers) - 王喆大牛的推荐系统论文、学习资料、业界分享
+- [**工业界深度推荐系统与CTR预估必读的论文汇总**](https://zhuanlan.zhihu.com/p/83103245)
+- [**transformers resource**](https://github.com/sannykim/transformers) - Transformer相关资源集合
 - [**MTPapers**](https://github.com/THUNLP-MT/MT-Reading-List) - 清华大学开源机器翻译必读论文集
 - [**NREPpapers**](https://github.com/thunlp/NREPapers) - 清华大学开源关系抽取必读论文集
 - [**GNNPapers**](https://github.com/thunlp/GNNPapers) - 清华大学开源图神经网络必读论文集
