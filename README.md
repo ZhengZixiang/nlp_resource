@@ -141,7 +141,8 @@
 - [**awesome graph neural network**](https://github.com/nnzhan/Awesome-Graph-Neural-Networks) - GNN资源集
 - [**awesome graph classification**](https://github.com/benedekrozemberczki/awesome-graph-classification) - 图分类资源集
 - [**awesome kaldi**](https://github.com/YoavRamon/awesome-kaldi) - Kaldi相关资源集
-- [**awesome knowledge graph**](https://github.com/shaoxiongji/awesome-knowledge-graph) - 知识图谱资源集
+- [**awesome knowledge graph**](https://github.com/shaoxiongji/awesome-knowledge-graph) - 知识图谱论文集
+- [**awesome knowledge graph**](https://github.com/husthuke/awesome-knowledge-graph) - 另一知识图谱资源集
 - [**awesome law nlp research work**](https://github.com/bamtercelboo/Awesome-Law-NLP-Research-Work) - 法律NLP工作资源集
 - [**awesome qa**](https://github.com/seriousmac/awesome-qa) - 问答系统资源集
 - [**awesome recsys**](https://github.com/chihming/competitive-recsys) - 推荐系统资源集
