@@ -21,6 +21,7 @@
 ### 通用深度学习自然语言处理框架与工具
 - [**AllenNLP**](https://allennlp.org) - Allen团队开发的基于PyTorch的NLP框架，其中有包括ELMo等多种模型实现
 - [**fastNLP**](https://github.com/fastnlp/fastNLP) - 复旦大学深度学习自然语言处理框架
+- [**flair**](https://github.com/zalandoresearch/flair) - 轻量级NLP框架
 - [**Jiagu**](https://github.com/ownthink/Jiagu) - 基于BiLSTM实现的中文深度学习自然语言处理工具，提供多种中文信息处理基本功能
 - [**Kashgari**](https://github.com/BrikerMan/Kashgari) - 基于Keras的精简自然语言处理框架，可用于文本标注与文本分类任务，值得一试
 - [**PyText**](https://github.com/facebookresearch/pytext) - Facebook开源的基于PyTorch的自然语言处理框架
