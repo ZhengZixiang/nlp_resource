@@ -17,6 +17,8 @@
 ### 入门教程
 - [**nlp-tutorial**](https://github.com/lyeoni/nlp-tutorial) - 基于PyTorch的深度学习NLP入门代码
 - [**NLP-Projects**](https://github.com/gaoisbest/NLP-Projects) - NLP多种类型项目合集
+- [**Pandas cookbook**](https://github.com/jvns/pandas-cookbook) - pandas入门教程
+- [**PyTorch Tutorial**](https://github.com/yunjey/pytorch-tutorial) - PyTorch入门教程
 
 ### 通用深度学习自然语言处理框架与工具
 - [**AllenNLP**](https://allennlp.org) - Allen团队开发的基于PyTorch的NLP框架，其中有包括ELMo等多种模型实现
@@ -27,6 +29,7 @@
 - [**PyText**](https://github.com/facebookresearch/pytext) - Facebook开源的基于PyTorch的自然语言处理框架
 - [**StanfordNLP**](https://stanfordnlp.github.io/stanfordnlp/index.html) - 斯坦福大学基于PyTorch开发的自然语言处理工具，可用于分词、序列标注等任务，Stanford CoreNLP的深度学习版替代品
 - [**tensor2tensor**](https://github.com/tensorflow/tensor2tensor) - Google研究团队深度学习模型和相关数据集的集中代码仓库，包含多种NLP模型
+- [**tensorflow models**](https://github.com/tensorflow/models) - Google模型存放仓库
 - [**TorchNLP**](https://github.com/kolloldas/torchnlp) - 基于PyTorch和TorchText实现的深度学习自然语言处理库
 
 ### 字词向量
@@ -54,6 +57,8 @@
 - [**NeuralClassifier**](https://github.com/Tencent/NeuralNLP-NeuralClassifier) - 腾讯开源的基于PyTorch的多模型多类型任务文本分类工具
 
 ### 预训练语言模型与Transformer
+- [**annotated-transformer**](https://github.com/harvardnlp/annotated-transformer) - 经典博客[The Annotated Transformer](https://github.com/harvardnlp/annotated-transformer)源码
+- [**Universal-Transformer-Pytorch**](https://github.com/andreamad8/Universal-Transformer-Pytorch) - 基于PyTorch实现Universal Transformer
 - [**bert**](https://github.com/google-research/bert) Google BERT官方代码
 - [**transformer-tensorflow**](https://github.com/DongjunLee/transformer-tensorflow) - 基于TensorFlow的Transformer实现
 - [**huggingface transformers**](https://github.com/huggingface/transformers) - 强烈推荐，同时支持TensorFlow 2.0和PyTorch和支持多种预训练语言模型工具
@@ -93,7 +98,13 @@
 - [**kbqa**](https://github.com/wavewangyue/kbqa) - 基于知识库的问答系统实现
 
 ### 命名实体识别
+- [**bert-sequence-tagging**](https://github.com/zhpmatrix/bert-sequence-tagging) - 使用BERT做中文序列标注
 - [**BioNER-Progress**](https://github.com/lingluodlut/BioNER-Progress) - 生物医学领域命名实体识别进展跟踪
+- [**NCRF++**](https://github.com/jiesutd/NCRFpp) - 经典的深度学习序列标注模型
+
+### 关系抽取
+- [**OpenNRE**](https://github.com/thunlp/OpenNRE) - 清华开源的基于TensorFlow的关系抽取框架
+- [**OpenNRE-PyTorch**](https://github.com/ShulinCao/OpenNRE-PyTorch) - 上一项目的PyTorch版本
 
 ### 知识图谱
 - [**lightKG**](https://github.com/smilelight/lightKG) - 他人基于PyTorch和TorchText实现的知识图谱技术框架
@@ -119,6 +130,12 @@
 - [**NiuTrans**](http://www.niutrans.com/niutrans/NiuTrans.ch.html) - 东北大学自然语言处理实验室开源的统计机器翻译工具
 - [**Pan Gu Segment**](https://archive.codeplex.com/?p=pangusegment) - 盘古开源中文分词
 - [**Stanford CoreNLP**](https://nlp.stanford.edu/software/) - 斯坦福大学开源的统计自然语言处理工具包
+
+### ANN近似最近邻
+- [**LSHash**](https://github.com/kayzhu/LSHash) - 局部敏感哈希
+- [**NearPy**](https://github.com/pixelogik/NearPy)
+- [**Simhash**](https://github.com/leonsim/simhash)
+- [**FLANN**](https://github.com/primetang/pyflann)
 
 ### 其他常用工具
 - [**BeautifulSoup**](https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/) - 爬虫常用的HTML和XML数据提取工具
@@ -156,6 +173,7 @@
 - [**DL-NLP-Readings**](https://github.com/IsaacChanghau/DL-NLP-Readings) - 他人的自然语言处理论文集
 - [**Deep Learning with Electronic Health Record (EHR) Systems**](https://practicalai.me/blog/deep-learning-with-ehr-systems) - 深度学习下电子病历系统研究
 - [**Research-Line**](https://github.com/ConanCui/Research-Line) - 他人的知识图谱、异构网络、图嵌入与推荐系统论文集
+- [**CDCS - Chinese Data Competitions Solutions**](https://github.com/geekinglcq/CDCS) - 中国数据竞赛优胜解集锦
 - [**classical reco papers**](https://github.com/wzhe06/Reco-papers) - 王喆大牛的推荐系统论文、学习资料、业界分享
 - [**工业界深度推荐系统与CTR预估必读的论文汇总**](https://zhuanlan.zhihu.com/p/83103245)
 - [**transformers resource**](https://github.com/sannykim/transformers) - Transformer相关资源集合
@@ -167,6 +185,7 @@
 
 ## 中文语料资源建设
 - [**cn-radical**](https://github.com/skishore/makemeahanzi) - 提取中文偏旁部首和拼音的工具
+- [**ChineseNLP**](https://chinesenlp.xyz) - 滴滴整理的中文数据集与SOTA
 - [**ChineseNlpCorpus**](https://github.com/SophonPlus/ChineseNlpCorpus) - 中文自然语言处理数据集收集
 - [**nlp_chinese_corpus**](https://github.com/brightmart/nlp_chinese_corpus) - 中文自然语言处理大规模语料库收集
 - [**chinese_chatbot_corpus**](https://github.com/codemayq/chinese_chatbot_corpus) - 中文公开聊天语料库
