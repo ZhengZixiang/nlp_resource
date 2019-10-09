@@ -184,6 +184,7 @@
 - [**CDCS**](https://github.com/geekinglcq/CDCS) - 中国数据竞赛优胜解集锦
 
 ## 中文语料资源建设
+- [**ChineseGLUE**](https://github.com/chineseGLUE/chineseGLUE) - 中文语言理解测评基准
 - [**cn-radical**](https://github.com/skishore/makemeahanzi) - 提取中文偏旁部首和拼音的工具
 - [**ChineseNLP**](https://chinesenlp.xyz) - 滴滴整理的中文数据集与SOTA
 - [**ChineseNlpCorpus**](https://github.com/SophonPlus/ChineseNlpCorpus) - 中文自然语言处理数据集收集
