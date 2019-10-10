@@ -1,4 +1,20 @@
 # 面试求职资源集锦
-- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#All-Language) - GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果
-- [NLPer-Interview](https://github.com/songyingxin/NLPer-Interview) -  老宋的茶书会整理的NLP算法工程师相关的面试题
-- [interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总
+- [**GitHub-Chinese-Top-Charts**](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#All-Language) - GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果
+- [**2019 Autumn Recruitment Experience**](https://github.com/zslomo/2019-Autumn-recruitment-experience)
+- [**Algorithm Interview Notes Chinese**](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
+- [**CS-Notes**](https://github.com/CyC2018/CS-Notes) - 技术面试必备基础知识
+- [**Deep Learning 500 Questions**](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问
+- [**Deep Learning Book QA**](https://github.com/elviswf/DeepLearningBookQA_cn) - 深度学习花书QA
+- [**DL Interview**](https://github.com/ShanghaiTechAIClub/DLInterview) - 深度学习面试题收集
+- [**Interview-code-practice-python**](https://github.com/leeguandong/Interview-code-practice-python)
+- [**Jianzhi Offer C++ Implementation**](https://github.com/gatieme/CodingInterviews)
+- [**Jianzhi Offer Python Implementation**](https://github.com/JushuangQiao/Python-Offer)
+- [**Python & JAVA Solutions for Leetcode**](https://github.com/qiyuangong/leetcode)
+- [**leetcode题解**](https://github.com/azl397985856/leetcode) - 推荐
+- [**Top 10国际大厂人工智能岗位经典面试题精选**](https://mp.weixin.qq.com/s/FUpPIZP0hzUWNXZobjGYPw)
+- [**reverse-interview-zh**](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
+- [**ML-NLP**](https://github.com/NLP-LOVE/ML-NLP) - 机器学习、NLP面试中常考到的知识点和代码实现
+- [**NLPer-Interview**](https://github.com/songyingxin/NLPer-Interview) -  老宋的茶书会整理的NLP算法工程师相关的面试题
+- [**interview_internal_reference**](https://github.com/0voice/interview_internal_reference) - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总
+- [**AI Job Recommend**](https://github.com/amusi/AI-Job-Recommend)
+- [**Awesome Resume for Chinese**](https://github.com/dyweb/awesome-resume-for-chinese) - 适合中文的简历模板
