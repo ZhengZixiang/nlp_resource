@@ -1,0 +1,3 @@
+- [**AdaBound**](https://github.com/Luolc/AdaBound)
+- [**dimensionality_reduction_alo_codes**](https://github.com/heucoder/dimensionality_reduction_alo_codes) - 多种降维算法Python实现
+- [**Note-by-LaTeX**](https://github.com/wklchris/Note-by-LaTeX) - 中文LaTeX手册
