@@ -18,7 +18,7 @@
 - [**码农场hankcs**](http://www.hankcs.com) - hanlp开发者
 - [**美团点评技术团队**](https://tech.meituan.com/)
 - [**深度传送门**](https://www.zhihu.com/people/yixiaonongfu/posts) - 深度推荐系统与CTR预估，微博同名
-- [[**石晓文**]](https://www.jianshu.com/nb/21403842) - 深度学习遇上推荐系统系列博客非常不错
+- [**石晓文**](https://www.jianshu.com/nb/21403842) - 深度学习遇上推荐系统系列博客非常不错
 - [**王喆的机器学习笔记**](https://zhuanlan.zhihu.com/wangzhenotes) - 推荐系统、计算广告等机器学习领域前沿知识
 - [**杨旭东**](https://www.zhihu.com/people/yang-xu-dong-6/posts) - 阿里推荐系统工程师
 - [**张俊林**](https://www.zhihu.com/people/zhang-jun-lin-76/activities) - 张俊林老师几乎所有文章都可谓深入浅出字字珠玑见解独到（不是我吹）
