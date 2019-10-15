@@ -3,6 +3,7 @@
 - [**2019 Autumn Recruitment Experience**](https://github.com/zslomo/2019-Autumn-recruitment-experience)
 - [**Algorithm Interview Notes Chinese**](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 - [**CS-Notes**](https://github.com/CyC2018/CS-Notes) - 技术面试必备基础知识
+- [**cv-interview**](https://github.com/donnyyou/cv-interview) - CV岗常见面试题
 - [**Deep Learning 500 Questions**](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问
 - [**Deep Learning Book QA**](https://github.com/elviswf/DeepLearningBookQA_cn) - 深度学习花书QA
 - [**DL Interview**](https://github.com/ShanghaiTechAIClub/DLInterview) - 深度学习面试题收集
