@@ -48,3 +48,4 @@
 - [中文分词十年又回顾2007-2017--简报](https://zhuanlan.zhihu.com/p/56107108)
 - [NLP的巨人肩膀（上）](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247493520&idx=1&sn=2b04c009ef75291ef3d19e8fe673aa36&chksm=96ea3810a19db10621e7a661974c796e8adeffc31625a769f8db1d87ba803cd58a30d40ad7ce&scene=21#wechat_redirect)
 - [NLP 的巨人肩膀（下）：从 CoVe 到 BERT](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247493731&idx=1&sn=51206e4ca3983548436d889590ab5347&chksm=96ea37e3a19dbef5b6db3143eb9df822915126d3d8f61fe73ddb9f8fa329d568ec79a662acb1&token=20831088&lang=zh_CN#rd)
+- [正态分布的前世今生](https://github.com/panyang/AINLP-Resource/tree/master/rickjin)
