@@ -8,11 +8,13 @@
 - [**Google AI Blog**](https://ai.googleblog.com/)
 - [**OpenAI Blog**](https://openai.com/blog/)
 - [**阿里中间件团队**](https://blog.51cto.com/aliapp)
+- [**安迪的写作间**](https://www.zhihu.com/people/andy_yangz/posts)
 - [**高开远**](https://blog.csdn.net/Kaiyuan_sjtu/article/details/89788314) 分享了许多高质量的ABSA、NER等任务的论文见解
 - [**寒小阳**](https://blog.csdn.net/han_xiaoyang/article/list/1) 在推荐系统和NLP等方面有许多深入浅出的博客
 - [**科学空间**](https://spaces.ac.cn) - 苏神苏剑林的博客
 - [**老宋的茶书会**](https://www.zhihu.com/people/songyingxin/posts) - 分享了许多优秀的BERT等方面的论文见解
 - [**李理的博客**](http://fancyerii.github.io) - 作者还发布了一本不错的中文书籍[《深度学习理论与实战：提高篇》](http://fancyerii.github.io/2019/03/14/dl-book/)
+- [**李如**](https://www.zhihu.com/people/rumor-lee/posts)
 - [**廖雪峰**](https://www.liaoxuefeng.com/wiki/1177760294764384) - 廖雪峰大牛的各类教程质量不用赘述
 - [**刘知远**](https://www.zhihu.com/people/zibuyu9/posts) - 刘老师分享的许多科研指导和THUNLP团队的开源项目都非常好
 - [**码农场hankcs**](http://www.hankcs.com) - hanlp开发者
