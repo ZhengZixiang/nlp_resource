@@ -197,3 +197,4 @@
 - [**nlp-datasets**](https://github.com/niderhoff/nlp-datasets) - NLP部分数据集集合
 - [**stopwords**](https://github.com/goto456/stopwords) - 中文常用停用词表
 - [**THUOCL**](https://github.com/thunlp/THUOCL) - 清华大学开源的多领域中文词库
+- [**LDNOOBW**](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) 多语言低俗词汇库
