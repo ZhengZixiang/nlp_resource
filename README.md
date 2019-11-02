@@ -56,6 +56,8 @@
 - [**Text-Classification-Models-Pytorch**](https://github.com/AnubhavGupta3377/Text-Classification-Models-Pytorch) - 基于PyTorch实现多种文本分类模型
 - [**TextClassification-Pytorch**](https://github.com/songyingxin/TextClassification-Pytorch) - 基于PyTorch实现BERT前时代文本分类模型
 - [**NeuralClassifier**](https://github.com/Tencent/NeuralNLP-NeuralClassifier) - 腾讯开源的基于PyTorch的多模型多类型任务文本分类工具
+- [**Chinese-Text-Classification-Pytorch**](https://github.com/649453932/Chinese-Text-Classification-Pytorch) - 开箱即用的基于PyTorch实现的中文文本分类框架
+
 
 ### 预训练语言模型与Transformer
 - [**annotated-transformer**](https://github.com/harvardnlp/annotated-transformer) - 经典博客[The Annotated Transformer](https://github.com/harvardnlp/annotated-transformer)源码
@@ -104,7 +106,7 @@
 - [**NCRF++**](https://github.com/jiesutd/NCRFpp) - 经典的深度学习序列标注模型
 
 ### 关系抽取
-- [**OpenNRE**](https://github.com/thunlp/OpenNRE) - 清华开源的基于TensorFlow的关系抽取框架
+- [**OpenNRE**](https://github.com/thunlp/OpenNRE) - 清华开源的关系抽取框架（原基于TensorFlow，2.0版本已迁移到PyTorch）
 - [**OpenNRE-PyTorch**](https://github.com/ShulinCao/OpenNRE-PyTorch) - 上一项目的PyTorch版本
 
 ### 知识图谱
@@ -177,6 +179,7 @@
 - [**CDCS - Chinese Data Competitions Solutions**](https://github.com/geekinglcq/CDCS) - 中国数据竞赛优胜解集锦
 - [**classical reco papers**](https://github.com/wzhe06/Reco-papers) - 王喆大牛的推荐系统论文、学习资料、业界分享
 - [**工业界深度推荐系统与CTR预估必读的论文汇总**](https://zhuanlan.zhihu.com/p/83103245)
+- [**RecSys**]（https://github.com/mJackie/RecSys） - 推荐系统/计算广告/机器学习/CTR预估资料汇总
 - [**transformers resource**](https://github.com/sannykim/transformers) - Transformer相关资源集合
 - [**MTPapers**](https://github.com/THUNLP-MT/MT-Reading-List) - 清华大学开源机器翻译必读论文集
 - [**NREPpapers**](https://github.com/thunlp/NREPapers) - 清华大学开源关系抽取必读论文集
