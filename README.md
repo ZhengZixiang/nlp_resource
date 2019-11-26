@@ -38,6 +38,7 @@
 - [**Gensim**](https://radimrehurek.com/gensim/) - 导入和训练word embedding的优秀工具包
 - [**Glove**](https://nlp.stanford.edu/projects/glove/) - Glove官方地址
 - [**word2vec**](https://github.com/dav/word2vec) - word2vec官方C++原始实现
+- [**Word-Embedding**](https://github.com/zlsdu/Word-Embedding) - 利用Word2vec，Fasttext，Glove，Elmo，Bert，Flair训练Word Embedding教程
 - [**Tencent Word Embedding**](https://ai.tencent.com/ailab/nlp/embedding.html) - 腾讯大规模中文词向量
 
 ### 情感分析
@@ -179,7 +180,7 @@
 - [**CDCS - Chinese Data Competitions Solutions**](https://github.com/geekinglcq/CDCS) - 中国数据竞赛优胜解集锦
 - [**classical reco papers**](https://github.com/wzhe06/Reco-papers) - 王喆大牛的推荐系统论文、学习资料、业界分享
 - [**工业界深度推荐系统与CTR预估必读的论文汇总**](https://zhuanlan.zhihu.com/p/83103245)
-- [**RecSys**]（https://github.com/mJackie/RecSys） - 推荐系统/计算广告/机器学习/CTR预估资料汇总
+- [**RecSys**](https://github.com/mJackie/RecSys) - 推荐系统/计算广告/机器学习/CTR预估资料汇总
 - [**transformers resource**](https://github.com/sannykim/transformers) - Transformer相关资源集合
 - [**MTPapers**](https://github.com/THUNLP-MT/MT-Reading-List) - 清华大学开源机器翻译必读论文集
 - [**NREPpapers**](https://github.com/thunlp/NREPapers) - 清华大学开源关系抽取必读论文集
@@ -195,6 +196,7 @@
 - [**nlp_chinese_corpus**](https://github.com/brightmart/nlp_chinese_corpus) - 中文自然语言处理大规模语料库收集
 - [**chinese_chatbot_corpus**](https://github.com/codemayq/chinese_chatbot_corpus) - 中文公开聊天语料库
 - [**chinese_popular_new_words**](https://github.com/1data-inc/chinese_popular_new_words) - 壹沓科技中文新词表
+- [**CNSD**](https://github.com/zengjunjun/CNSD) - 中文自然语言推理数据集
 - [**funNLP**](https://github.com/fighting41love/funNLP) - 一个中文词库与结构化信息、工具大全
 - [**Make Me a Hanzi**](https://github.com/skishore/makemeahanzi) - 开源中文汉字字形数据
 - [**nlp-datasets**](https://github.com/niderhoff/nlp-datasets) - NLP部分数据集集合
