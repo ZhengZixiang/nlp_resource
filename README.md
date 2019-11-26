@@ -200,6 +200,7 @@
 - [**funNLP**](https://github.com/fighting41love/funNLP) - 一个中文词库与结构化信息、工具大全
 - [**Make Me a Hanzi**](https://github.com/skishore/makemeahanzi) - 开源中文汉字字形数据
 - [**nlp-datasets**](https://github.com/niderhoff/nlp-datasets) - NLP部分数据集集合
+- [**sensitive-stop-words**](https://github.com/fwwdn/sensitive-stop-words) - 互联网常用敏感词、停止词库
 - [**stopwords**](https://github.com/goto456/stopwords) - 中文常用停用词表
 - [**THUOCL**](https://github.com/thunlp/THUOCL) - 清华大学开源的多领域中文词库
 - [**LDNOOBW**](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) 多语言低俗词汇库
