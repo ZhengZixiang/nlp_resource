@@ -53,3 +53,5 @@
 - [NLP 的巨人肩膀（下）：从 CoVe 到 BERT](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247493731&idx=1&sn=51206e4ca3983548436d889590ab5347&chksm=96ea37e3a19dbef5b6db3143eb9df822915126d3d8f61fe73ddb9f8fa329d568ec79a662acb1&token=20831088&lang=zh_CN#rd)
 - [正态分布的前世今生](https://github.com/panyang/AINLP-Resource/tree/master/rickjin)
 - [一文读懂深度学习中的N种卷积](https://mp.weixin.qq.com/s/6300oADp7QN5SDPrv2yAtQ)
+- [一文道尽softmax loss及其变种](https://zhuanlan.zhihu.com/p/34044634)
+- [深度学习中常用的损失函数有哪些？](https://zhuanlan.zhihu.com/p/60302475)
