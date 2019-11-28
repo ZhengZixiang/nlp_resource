@@ -32,17 +32,7 @@
 - [**tensorflow models**](https://github.com/tensorflow/models) - Google模型存放仓库
 - [**TorchNLP**](https://github.com/kolloldas/torchnlp) - 基于PyTorch和TorchText实现的深度学习自然语言处理库
 
-### 字词向量
-- [**Chinese Word Vectors**](https://github.com/Embedding/Chinese-Word-Vectors) 北京师范大学开源的上百种不同预料不同策略预训练中文词向量
-- [**ELMoForManyLangs**](https://github.com/HIT-SCIR/ELMoForManyLangs) - 哈工大开源的不同语言的ELMo预训练词表征
-- [**Gensim**](https://radimrehurek.com/gensim/) - 导入和训练word embedding的优秀工具包
-- [**Glove**](https://nlp.stanford.edu/projects/glove/) - Glove官方地址
-- [**word2vec**](https://github.com/dav/word2vec) - word2vec官方C++原始实现
-- [**Word-Embedding**](https://github.com/zlsdu/Word-Embedding) - 利用Word2vec，Fasttext，Glove，Elmo，Bert，Flair训练Word Embedding教程
-- [**Tencent Word Embedding**](https://ai.tencent.com/ailab/nlp/embedding.html) - 腾讯大规模中文词向量
-
 ### 情感分析
-- [**ABSA-PyTorch**](https://github.com/songyouwei/ABSA-PyTorch) - 基于PyTorch的多种方面级情感分析模型实现
 - [**PyTorch Sentiment Analysis**](https://github.com/bentrevett/pytorch-sentiment-analysis) 基于PyTorch的情感分析教程
  
 ### 自然语言推断
@@ -169,7 +159,6 @@
 - [**awesome qa**](https://github.com/seriousmac/awesome-qa) - 问答系统资源集
 - [**awesome recsys**](https://github.com/chihming/competitive-recsys) - 推荐系统资源集
 - [**awesome relation extraction**](https://github.com/roomylee/awesome-relation-extraction) - 关系抽取资源集
-- [**awesome sentence/word embedding**](https://github.com/Separius/awesome-sentence-embedding) - 词向量与句向量资源集
 - [**awesome sentiment analysis**](https://github.com/laugustyniak/awesome-sentiment-analysis#papers)
 - [**awesome speech**](https://github.com/mxer/awesome-speech) - 语音资源集
 - [**awesome text generation**](https://github.com/ChenChengKuan/awesome-text-generation) - 文本生成资源集
