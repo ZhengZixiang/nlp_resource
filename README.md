@@ -182,14 +182,16 @@
 - [**cn-radical**](https://github.com/skishore/makemeahanzi) - 提取中文偏旁部首和拼音的工具
 - [**ChineseNLP**](https://chinesenlp.xyz) - 滴滴整理的中文数据集与SOTA
 - [**ChineseNlpCorpus**](https://github.com/SophonPlus/ChineseNlpCorpus) - 中文自然语言处理数据集收集
+- [**chinese-poetry**](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库
 - [**nlp_chinese_corpus**](https://github.com/brightmart/nlp_chinese_corpus) - 中文自然语言处理大规模语料库收集
 - [**chinese_chatbot_corpus**](https://github.com/codemayq/chinese_chatbot_corpus) - 中文公开聊天语料库
 - [**chinese_popular_new_words**](https://github.com/1data-inc/chinese_popular_new_words) - 壹沓科技中文新词表
 - [**CNSD**](https://github.com/zengjunjun/CNSD) - 中文自然语言推理数据集
 - [**funNLP**](https://github.com/fighting41love/funNLP) - 一个中文词库与结构化信息、工具大全
+- [**LDNOOBW**](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) 多语言低俗词汇库
 - [**Make Me a Hanzi**](https://github.com/skishore/makemeahanzi) - 开源中文汉字字形数据
 - [**nlp-datasets**](https://github.com/niderhoff/nlp-datasets) - NLP部分数据集集合
+- [**QQMusicSpider**](https://github.com/yangjianxin1/QQMusicSpider) - 基于Scrapy的QQ音乐爬虫与49万+语料
 - [**sensitive-stop-words**](https://github.com/fwwdn/sensitive-stop-words) - 互联网常用敏感词、停止词库
 - [**stopwords**](https://github.com/goto456/stopwords) - 中文常用停用词表
 - [**THUOCL**](https://github.com/thunlp/THUOCL) - 清华大学开源的多领域中文词库
-- [**LDNOOBW**](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) 多语言低俗词汇库
