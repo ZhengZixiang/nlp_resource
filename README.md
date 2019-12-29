@@ -82,9 +82,7 @@
 - [**Sogou Machine Reading Comprehension Toolkit**](https://github.com/sogou/SMRCToolkit) - 搜狗开源的基于TensorFlow机器阅读理解工具，包括数据预处理和多种模型实现
 
 ### 机器翻译
-- [**OpenNMT-py**](https://github.com/OpenNMT/OpenNMT-py) - 基于PyTorch的机器翻译框架
-- [**OpenNMT-tf**](https://github.com/OpenNMT/OpenNMT-tf) - 上个项目的TensorFlow版本
-- [**Subword Neural Machine Translation**](https://github.com/rsennrich/subword-nmt) - 为机器翻译等任务提供切分subword功能的工具
+机器翻译相关已另行整理至[MTPapers](https://github.com/ZhengZixiang/MTPapers)
 
 ### 聊天机器人、对话系统与问答系统
 - [**BertQA**](https://github.com/ankit-ai/BertQA-Attention-on-Steroids) - 斯坦福大学BertQA实现
@@ -118,10 +116,10 @@
 - [**HTK**](http://htk.eng.cam.ac.uk) - 基于马尔可夫模型开发的语音识别工具包
 - [**Jieba**](https://github.com/fxsjy/jieba) - 结巴分词是Python最常用中文分词
 - [**KenLM**](https://kheafield.com/code/kenlm/) - 统计语言模型工具
-- [**LTP**](https://ltp.readthedocs.io/zh_CN/latest/index.html) -  哈工大社会计算与信息检索研究中心开源的统计自然语言处理工具包
+- [**LTP**](https://ltp.readthedocs.io/zh_CN/latest/index.html) -  哈工大社会计算与信息检索研究中心开源的统计自然语言处理工具包ji
 - [**MALLET**](http://mallet.cs.umass.edu) - 马萨诸塞大学开源的Java统计自然语言处理工具包
 - [**NLTK**](http://www.nltk.org) - 针对英文的工具包
-- [**NiuTrans**](http://www.niutrans.com/niutrans/NiuTrans.ch.html) - 东北大学自然语言处理实验室开源的统计机器翻译工具
+
 - [**Pan Gu Segment**](https://archive.codeplex.com/?p=pangusegment) - 盘古开源中文分词
 - [**Stanford CoreNLP**](https://nlp.stanford.edu/software/) - 斯坦福大学开源的统计自然语言处理工具包
 
