@@ -51,38 +51,19 @@
 
 
 ### 预训练语言模型与Transformer
-- [**annotated-transformer**](https://github.com/harvardnlp/annotated-transformer) - 经典博客[The Annotated Transformer](https://github.com/harvardnlp/annotated-transformer)源码
-- [**Universal-Transformer-Pytorch**](https://github.com/andreamad8/Universal-Transformer-Pytorch) - 基于PyTorch实现Universal Transformer
-- [**bert**](https://github.com/google-research/bert) Google BERT官方代码
-- [**transformer-tensorflow**](https://github.com/DongjunLee/transformer-tensorflow) - 基于TensorFlow的Transformer实现
-- [**huggingface transformers**](https://github.com/huggingface/transformers) - 强烈推荐，同时支持TensorFlow 2.0和PyTorch和支持多种预训练语言模型工具
+部分相关内容已另行整理至[MTPapers](https://github.com/ZhengZixiang/ATPapers)
 - [**BERT-Classification-Tutorial**](https://github.com/Socialbird-AILab/BERT-Classification-Tutorial) - BERT文本分类教程
 - [**bert-Chinese-classification-task**](https://github.com/NLPScott/bert-Chinese-classification-task) - BERT中文文本分类实践
 - [**BERT-for-Sequence-Labeling-and-Text-Classification**](https://github.com/yuanxiaosc/BERT-for-Sequence-Labeling-and-Text-Classification) - BERT序列标注与文本分类实践
 - [**bert_language_understanding**](https://github.com/brightmart/bert_language_understanding) - 基于TensorFlow实现BERT模型并用于文本分类
 - [**bert_ner**](https://github.com/Kyubyong/bert_ner) - 基于PyTorch的BERT命名实体识别
-- [**BERT-pytorch**](https://github.com/codertimo/BERT-pytorch) - 基于PyTorch的BERT官方实现
-- [**bert-as-service**](https://github.com/hanxiao/bert-as-service) - 用BERT将变长句子映射成定长向量的工具
 - [**bert-utils**](https://github.com/terrifyzhao/bert-utils) - 一行代码使用BERT生成句向量用于文本分类、文本相似度计算
-- [**Keras Attention Layer**](https://github.com/thushv89/attention_keras) - 基于Keras的Attention层实现
-- [**keras-bert**](https://github.com/CyberZHG/keras-bert) - 基于Keras的BERT实现和加载工具
-- [**BERT-keras**](https://github.com/Separius/BERT-keras) - 另一个基于Keras的BERT实现
-- [**bert4keras**](https://github.com/bojone/bert4keras) - 苏神版本的基于Keras的BERT实现
-- [**GPT-2-Pytorch Text-Generator**](https://github.com/graykode/gpt-2-Pytorch) - GPT-2文本生成实现
-- [**GPT2-Chinese**](https://github.com/Morizeyao/GPT2-Chinese) - GPT-2中文训练代码
-- [**XLNet**](https://github.com/zihangdai/xlnet) - Google [XLNet](https://arxiv.org/abs/1906.08237)实现
-- [**OpenCLaP**](https://github.com/thunlp/OpenCLaP) - 清华大学开源的多领域（民事、刑事、百度百科）中文BERT模型
-- [**BAAI-JDAI-BERT**](https://github.com/jd-aig/nlp_baai) - 2019智源京东对话挑战赛（BAAI-JD）提供的基于42GB客服语料训练的BERT和word2vec模型
-- [**Chinese-BERT-wwm模型**](https://github.com/ymcui/Chinese-BERT-wwm)
-- [**XLNet中文预训练模型**](https://github.com/ymcui/Chinese-PreTrained-XLNet)
-- [**RoBERTa中文预训练模型**](https://github.com/brightmart/roberta_zh)
-- [**ALBERT中文预训练模型**](https://github.com/brightmart/albert_zh)
 
 ### 机器阅读理解
 - [**Sogou Machine Reading Comprehension Toolkit**](https://github.com/sogou/SMRCToolkit) - 搜狗开源的基于TensorFlow机器阅读理解工具，包括数据预处理和多种模型实现
 
 ### 机器翻译
-机器翻译相关已另行整理至[MTPapers](https://github.com/ZhengZixiang/MTPapers)
+相关内容已另行整理至[MTPapers](https://github.com/ZhengZixiang/MTPapers)
 
 ### 聊天机器人、对话系统与问答系统
 - [**BertQA**](https://github.com/ankit-ai/BertQA-Attention-on-Steroids) - 斯坦福大学BertQA实现
@@ -173,6 +154,7 @@
 - [**NREPpapers**](https://github.com/thunlp/NREPapers) - 清华大学开源关系抽取必读论文集
 - [**GNNPapers**](https://github.com/thunlp/GNNPapers) - 清华大学开源图神经网络必读论文集
 - [**PLMPapers**](https://github.com/thunlp/PLMpapers) - 清华大学开源预训练语言模型必读论文集
+- [**nlp-data-augmenta**](https://github.com/quincyliang/nlp-data-augmentation) - NLP数据增强资源集合
 - [**CDCS**](https://github.com/geekinglcq/CDCS) - 中国数据竞赛优胜解集锦
 
 ## 中文语料资源建设
