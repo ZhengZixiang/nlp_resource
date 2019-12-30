@@ -45,6 +45,7 @@
 - [深度解析京东个性化推荐系统演进史](https://blog.csdn.net/qq_40027052/article/details/78733365)
 - [神盾推荐——MAB算法应用总结](https://mp.weixin.qq.com/s/Xyqwrf2RudGtbMtwoqCTYA)
 - [深度学习在美团点评推荐平台排序中的运用](https://mp.weixin.qq.com/s/847h4ITQMtUlZcurJ9Vlvg?scene=25##)
+- [史上最可爱的关系抽取指南？从一条规则到十个开源项目](https://mp.weixin.qq.com/s/PGjIWuBGAVG9C9X9d1aKaQ)
 - [排序学习综述](https://mp.weixin.qq.com/s/gP57ROWN27on1wHj3rp-Iw)
 - [各大公司广泛使用的在线学习算法FTRL详解](http://www.cnblogs.com/EE-NovRain/p/3810737.html)
 - [详解深度学习中的Normalization，BN/LN/WN](https://zhuanlan.zhihu.com/p/33173246)
