@@ -169,6 +169,7 @@
 - [**chinese_popular_new_words**](https://github.com/1data-inc/chinese_popular_new_words) - 壹沓科技中文新词表
 - [**CNSD**](https://github.com/zengjunjun/CNSD) - 中文自然语言推理数据集
 - [**funNLP**](https://github.com/fighting41love/funNLP) - 一个中文词库与结构化信息、工具大全
+- [**hanzi_char_featurizer**](https://github.com/howl-anderson/hanzi_char_featurizer) - 汉字字符特征提取器
 - [**LDNOOBW**](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) 多语言低俗词汇库
 - [**Make Me a Hanzi**](https://github.com/skishore/makemeahanzi) - 开源中文汉字字形数据
 - [**nlp-datasets**](https://github.com/niderhoff/nlp-datasets) - NLP部分数据集集合
