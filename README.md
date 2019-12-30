@@ -33,6 +33,7 @@
 - [**TorchNLP**](https://github.com/kolloldas/torchnlp) - 基于PyTorch和TorchText实现的深度学习自然语言处理库
 
 ### 情感分析
+部分相关内容已另行整理至[ABSAPapers](https://github.com/ZhengZixiang/ABSAPapers)
 - [**PyTorch Sentiment Analysis**](https://github.com/bentrevett/pytorch-sentiment-analysis) 基于PyTorch的情感分析教程
  
 ### 自然语言推断
@@ -51,7 +52,7 @@
 
 
 ### 预训练语言模型与Transformer
-部分相关内容已另行整理至[MTPapers](https://github.com/ZhengZixiang/ATPapers)
+部分相关内容已另行整理至[ATPapers](https://github.com/ZhengZixiang/ATPapers)
 - [**BERT-Classification-Tutorial**](https://github.com/Socialbird-AILab/BERT-Classification-Tutorial) - BERT文本分类教程
 - [**bert-Chinese-classification-task**](https://github.com/NLPScott/bert-Chinese-classification-task) - BERT中文文本分类实践
 - [**BERT-for-Sequence-Labeling-and-Text-Classification**](https://github.com/yuanxiaosc/BERT-for-Sequence-Labeling-and-Text-Classification) - BERT序列标注与文本分类实践
