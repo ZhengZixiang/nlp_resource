@@ -180,6 +180,7 @@
 - [**cn-radical**](https://github.com/skishore/makemeahanzi) - 提取中文偏旁部首和拼音的工具
 - [**ChineseNLP**](https://chinesenlp.xyz) - 滴滴整理的中文数据集与SOTA
 - [**ChineseNlpCorpus**](https://github.com/SophonPlus/ChineseNlpCorpus) - 中文自然语言处理数据集收集
+- [**Chinese-abbreviation-dataset**](https://github.com/zhangyics/Chinese-abbreviation-dataset) - 中文缩略写数据集
 - [**chinese-poetry**](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库
 - [**nlp_chinese_corpus**](https://github.com/brightmart/nlp_chinese_corpus) - 中文自然语言处理大规模语料库收集
 - [**chinese_chatbot_corpus**](https://github.com/codemayq/chinese_chatbot_corpus) - 中文公开聊天语料库
