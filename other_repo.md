@@ -1,3 +1,4 @@
 - [**DeepRL**](https://github.com/NeuronDance/DeepRL) - 深度强化学习实验室资源汇总
 - [**dimensionality_reduction_alo_codes**](https://github.com/heucoder/dimensionality_reduction_alo_codes) - 多种降维算法Python实现
 - [**Note-by-LaTeX**](https://github.com/wklchris/Note-by-LaTeX) - 中文LaTeX手册
+- [**NNI**](https://github.com/microsoft/nni) - 微软开源的架构搜索、模型压缩、超参数调整的AutoML工具
