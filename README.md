@@ -157,6 +157,7 @@
 - [**PLMPapers**](https://github.com/thunlp/PLMpapers) - 清华大学开源预训练语言模型必读论文集
 - [**nlp-data-augmenta**](https://github.com/quincyliang/nlp-data-augmentation) - NLP数据增强资源集合
 - [**CDCS**](https://github.com/geekinglcq/CDCS) - 中国数据竞赛优胜解集锦
+- [**datawhalechina/competition-baseline**](https://github.com/datawhalechina/competition-baseline) - 数据科学竞赛各种baseline代码、思路分享
 
 ## 中文语料资源建设
 - [**ChineseGLUE**](https://github.com/chineseGLUE/chineseGLUE) - 中文语言理解测评基准
