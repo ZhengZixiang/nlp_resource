@@ -57,7 +57,6 @@
 - [**bert-Chinese-classification-task**](https://github.com/NLPScott/bert-Chinese-classification-task) - BERT中文文本分类实践
 - [**BERT-for-Sequence-Labeling-and-Text-Classification**](https://github.com/yuanxiaosc/BERT-for-Sequence-Labeling-and-Text-Classification) - BERT序列标注与文本分类实践
 - [**bert_language_understanding**](https://github.com/brightmart/bert_language_understanding) - 基于TensorFlow实现BERT模型并用于文本分类
-- [**bert_ner**](https://github.com/Kyubyong/bert_ner) - 基于PyTorch的BERT命名实体识别
 - [**bert-utils**](https://github.com/terrifyzhao/bert-utils) - 一行代码使用BERT生成句向量用于文本分类、文本相似度计算
 
 ### 机器阅读理解
@@ -72,9 +71,7 @@
 - [**kbqa**](https://github.com/wavewangyue/kbqa) - 基于知识库的问答系统实现
 
 ### 命名实体识别
-- [**bert-sequence-tagging**](https://github.com/zhpmatrix/bert-sequence-tagging) - 使用BERT做中文序列标注
-- [**BioNER-Progress**](https://github.com/lingluodlut/BioNER-Progress) - 生物医学领域命名实体识别进展跟踪
-- [**NCRF++**](https://github.com/jiesutd/NCRFpp) - 经典的深度学习序列标注模型
+相关内容已另行整理至[NERPapers](https://github.com/ZhengZixiang/NERPapers)
 
 ### 关系抽取
 - [**OpenNRE**](https://github.com/thunlp/OpenNRE) - 清华开源的关系抽取框架（原基于TensorFlow，2.0版本已迁移到PyTorch）
