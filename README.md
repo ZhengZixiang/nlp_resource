@@ -32,6 +32,17 @@
 - [**tensorflow models**](https://github.com/tensorflow/models) - Google模型存放仓库
 - [**TorchNLP**](https://github.com/kolloldas/torchnlp) - 基于PyTorch和TorchText实现的深度学习自然语言处理库
 
+
+
+### 预训练语言模型与Transformer
+相关内容已另行整理至[ATPapers](https://github.com/ZhengZixiang/ATPapers)
+
+### 机器翻译
+相关内容已另行整理至[MTPapers](https://github.com/ZhengZixiang/MTPapers)
+
+### 命名实体识别
+相关内容已另行整理至[NERPapers](https://github.com/ZhengZixiang/NERPapers)
+
 ### 情感分析
 部分相关内容已另行整理至[ABSAPapers](https://github.com/ZhengZixiang/ABSAPapers)
 - [**PyTorch Sentiment Analysis**](https://github.com/bentrevett/pytorch-sentiment-analysis) 基于PyTorch的情感分析教程
@@ -50,28 +61,13 @@
 - [**NeuralClassifier**](https://github.com/Tencent/NeuralNLP-NeuralClassifier) - 腾讯开源的基于PyTorch的多模型多类型任务文本分类工具
 - [**Chinese-Text-Classification-Pytorch**](https://github.com/649453932/Chinese-Text-Classification-Pytorch) - 开箱即用的基于PyTorch实现的中文文本分类框架
 
-
-### 预训练语言模型与Transformer
-部分相关内容已另行整理至[ATPapers](https://github.com/ZhengZixiang/ATPapers)
-- [**BERT-Classification-Tutorial**](https://github.com/Socialbird-AILab/BERT-Classification-Tutorial) - BERT文本分类教程
-- [**bert-Chinese-classification-task**](https://github.com/NLPScott/bert-Chinese-classification-task) - BERT中文文本分类实践
-- [**BERT-for-Sequence-Labeling-and-Text-Classification**](https://github.com/yuanxiaosc/BERT-for-Sequence-Labeling-and-Text-Classification) - BERT序列标注与文本分类实践
-- [**bert_language_understanding**](https://github.com/brightmart/bert_language_understanding) - 基于TensorFlow实现BERT模型并用于文本分类
-- [**bert-utils**](https://github.com/terrifyzhao/bert-utils) - 一行代码使用BERT生成句向量用于文本分类、文本相似度计算
-
 ### 机器阅读理解
 - [**Sogou Machine Reading Comprehension Toolkit**](https://github.com/sogou/SMRCToolkit) - 搜狗开源的基于TensorFlow机器阅读理解工具，包括数据预处理和多种模型实现
-
-### 机器翻译
-相关内容已另行整理至[MTPapers](https://github.com/ZhengZixiang/MTPapers)
 
 ### 聊天机器人、对话系统与问答系统
 - [**BertQA**](https://github.com/ankit-ai/BertQA-Attention-on-Steroids) - 斯坦福大学BertQA实现
 - [**ChatBotCourse**](https://github.com/warmheartli/ChatBotCourse) - 自己动手做聊天机器人教程
 - [**kbqa**](https://github.com/wavewangyue/kbqa) - 基于知识库的问答系统实现
-
-### 命名实体识别
-相关内容已另行整理至[NERPapers](https://github.com/ZhengZixiang/NERPapers)
 
 ### 关系抽取
 - [**OpenNRE**](https://github.com/thunlp/OpenNRE) - 清华开源的关系抽取框架（原基于TensorFlow，2.0版本已迁移到PyTorch）
@@ -126,7 +122,6 @@
 - [**Tencent AI Lab**](https://ai.tencent.com/ailab/nlp/)
 
 ## 论文集与其他资源集
-- [**awesome bert**](https://github.com/Jiakui/awesome-bert) - BERT相关资源集
 - [**awesome graph neural network**](https://github.com/nnzhan/Awesome-Graph-Neural-Networks) - GNN资源集
 - [**awesome graph classification**](https://github.com/benedekrozemberczki/awesome-graph-classification) - 图分类资源集
 - [**awesome kaldi**](https://github.com/YoavRamon/awesome-kaldi) - Kaldi相关资源集
@@ -157,7 +152,6 @@
 - [**datawhalechina/competition-baseline**](https://github.com/datawhalechina/competition-baseline) - 数据科学竞赛各种baseline代码、思路分享
 
 ## 中文语料资源建设
-- [**ChineseGLUE**](https://github.com/chineseGLUE/chineseGLUE) - 中文语言理解测评基准
 - [**cn-radical**](https://github.com/skishore/makemeahanzi) - 提取中文偏旁部首和拼音的工具
 - [**ChineseNLP**](https://chinesenlp.xyz) - 滴滴整理的中文数据集与SOTA
 - [**ChineseNlpCorpus**](https://github.com/SophonPlus/ChineseNlpCorpus) - 中文自然语言处理数据集收集
