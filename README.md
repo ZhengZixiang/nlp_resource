@@ -43,6 +43,9 @@
 ### 命名实体识别
 相关内容已另行整理至[NERPapers](https://github.com/ZhengZixiang/NERPapers)
 
+### 机器阅读理解
+相关内容已另行整理至[MRCPapers](https://github.com/ZhengZixiang/MRCPapers)
+
 ### 情感分析
 部分相关内容已另行整理至[ABSAPapers](https://github.com/ZhengZixiang/ABSAPapers)
 - [**PyTorch Sentiment Analysis**](https://github.com/bentrevett/pytorch-sentiment-analysis) 基于PyTorch的情感分析教程
@@ -60,9 +63,6 @@
 - [**TextClassification-Pytorch**](https://github.com/songyingxin/TextClassification-Pytorch) - 基于PyTorch实现BERT前时代文本分类模型
 - [**NeuralClassifier**](https://github.com/Tencent/NeuralNLP-NeuralClassifier) - 腾讯开源的基于PyTorch的多模型多类型任务文本分类工具
 - [**Chinese-Text-Classification-Pytorch**](https://github.com/649453932/Chinese-Text-Classification-Pytorch) - 开箱即用的基于PyTorch实现的中文文本分类框架
-
-### 机器阅读理解
-- [**Sogou Machine Reading Comprehension Toolkit**](https://github.com/sogou/SMRCToolkit) - 搜狗开源的基于TensorFlow机器阅读理解工具，包括数据预处理和多种模型实现
 
 ### 聊天机器人、对话系统与问答系统
 - [**BertQA**](https://github.com/ankit-ai/BertQA-Attention-on-Steroids) - 斯坦福大学BertQA实现
@@ -128,7 +128,6 @@
 - [**awesome knowledge graph**](https://github.com/shaoxiongji/awesome-knowledge-graph) - 知识图谱论文集
 - [**awesome knowledge graph**](https://github.com/husthuke/awesome-knowledge-graph) - 另一知识图谱资源集
 - [**awesome law nlp research work**](https://github.com/bamtercelboo/Awesome-Law-NLP-Research-Work) - 法律NLP工作资源集
-- [**awesome qa**](https://github.com/seriousmac/awesome-qa) - 问答系统资源集
 - [**awesome recsys**](https://github.com/chihming/competitive-recsys) - 推荐系统资源集
 - [**awesome relation extraction**](https://github.com/roomylee/awesome-relation-extraction) - 关系抽取资源集
 - [**awesome sentiment analysis**](https://github.com/laugustyniak/awesome-sentiment-analysis#papers)
@@ -142,11 +141,9 @@
 - [**classical reco papers**](https://github.com/wzhe06/Reco-papers) - 王喆大牛的推荐系统论文、学习资料、业界分享
 - [**工业界深度推荐系统与CTR预估必读的论文汇总**](https://zhuanlan.zhihu.com/p/83103245)
 - [**RecSys**](https://github.com/mJackie/RecSys) - 推荐系统/计算广告/机器学习/CTR预估资料汇总
-- [**transformers resource**](https://github.com/sannykim/transformers) - Transformer相关资源集合
 - [**MTPapers**](https://github.com/THUNLP-MT/MT-Reading-List) - 清华大学开源机器翻译必读论文集
 - [**NREPpapers**](https://github.com/thunlp/NREPapers) - 清华大学开源关系抽取必读论文集
 - [**GNNPapers**](https://github.com/thunlp/GNNPapers) - 清华大学开源图神经网络必读论文集
-- [**PLMPapers**](https://github.com/thunlp/PLMpapers) - 清华大学开源预训练语言模型必读论文集
 - [**nlp-data-augmenta**](https://github.com/quincyliang/nlp-data-augmentation) - NLP数据增强资源集合
 - [**CDCS**](https://github.com/geekinglcq/CDCS) - 中国数据竞赛优胜解集锦
 - [**datawhalechina/competition-baseline**](https://github.com/datawhalechina/competition-baseline) - 数据科学竞赛各种baseline代码、思路分享
