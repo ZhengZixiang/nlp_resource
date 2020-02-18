@@ -49,5 +49,3 @@
 - [中文分词十年又回顾2007-2017--简报](https://zhuanlan.zhihu.com/p/56107108)
 - [正态分布的前世今生](https://github.com/panyang/AINLP-Resource/tree/master/rickjin)
 - [一文读懂深度学习中的N种卷积](https://mp.weixin.qq.com/s/6300oADp7QN5SDPrv2yAtQ)
-- [一文道尽softmax loss及其变种](https://zhuanlan.zhihu.com/p/34044634)
-- [深度学习中常用的损失函数有哪些？](https://zhuanlan.zhihu.com/p/60302475)
