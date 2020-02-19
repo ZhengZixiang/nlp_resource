@@ -149,22 +149,4 @@
 - [**datawhalechina/competition-baseline**](https://github.com/datawhalechina/competition-baseline) - 数据科学竞赛各种baseline代码、思路分享
 
 ## 中文语料资源建设
-- [**cn-radical**](https://github.com/skishore/makemeahanzi) - 提取中文偏旁部首和拼音的工具
-- [**ChineseNLP**](https://chinesenlp.xyz) - 滴滴整理的中文数据集与SOTA
-- [**ChineseNlpCorpus**](https://github.com/SophonPlus/ChineseNlpCorpus) - 中文自然语言处理数据集收集
-- [**Chinese-abbreviation-dataset**](https://github.com/zhangyics/Chinese-abbreviation-dataset) - 中文缩略写数据集
-- [**chinese-poetry**](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库
-- [**nlp_chinese_corpus**](https://github.com/brightmart/nlp_chinese_corpus) - 中文自然语言处理大规模语料库收集
-- [**chinese_chatbot_corpus**](https://github.com/codemayq/chinese_chatbot_corpus) - 中文公开聊天语料库
-- [**chinese_popular_new_words**](https://github.com/1data-inc/chinese_popular_new_words) - 壹沓科技中文新词表
-- [**CNSD**](https://github.com/zengjunjun/CNSD) - 中文自然语言推理数据集
-- [**funNLP**](https://github.com/fighting41love/funNLP) - 一个中文词库与结构化信息、工具大全
-- [**hanzi_char_featurizer**](https://github.com/howl-anderson/hanzi_char_featurizer) - 汉字字符特征提取器
-- [**LDNOOBW**](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) 多语言低俗词汇库
-- [**Make Me a Hanzi**](https://github.com/skishore/makemeahanzi) - 开源中文汉字字形数据
-- [**nlp-datasets**](https://github.com/niderhoff/nlp-datasets) - NLP部分数据集集合
-- [**QQMusicSpider**](https://github.com/yangjianxin1/QQMusicSpider) - 基于Scrapy的QQ音乐爬虫与49万+语料
-- [**sensitive-stop-words**](https://github.com/fwwdn/sensitive-stop-words) - 互联网常用敏感词、停止词库
-- [**stopwords**](https://github.com/goto456/stopwords) - 中文常用停用词表
-- [**THUOCL**](https://github.com/thunlp/THUOCL) - 清华大学开源的多领域中文词库
-- [中文情感分析语料大全](https://www.mlln.cn/2018/10/11/%E4%B8%AD%E6%96%87%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90%E8%AF%AD%E6%96%99%E5%BA%93%E5%A4%A7%E5%85%A8-%E5%B8%A6%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/?tdsourcetag=s_pctim_aiomsg)
+相关内容已另行整理至[nlp_corpus](https://github.com/ZhengZixiang/nlp_corpus)
