@@ -24,6 +24,7 @@
 - [**王喆的机器学习笔记**](https://zhuanlan.zhihu.com/wangzhenotes) - 推荐系统、计算广告等机器学习领域前沿知识
 - [**徐啸**](https://www.zhihu.com/people/xuxiao-looper/posts)
 - [**杨旭东**](https://www.zhihu.com/people/yang-xu-dong-6/posts) - 阿里推荐系统工程师
+- [**忆臻**](https://www.zhihu.com/people/qinlibo_nlp/posts)
 - [**张俊林**](https://www.zhihu.com/people/zhang-jun-lin-76/activities) - 张俊林老师几乎所有文章都可谓深入浅出字字珠玑见解独到（不是我吹）
 - [**知乎技术专栏**](https://zhuanlan.zhihu.com/hackers) - 知乎官方的技术内容分享，其中算法方面有孙付伟等大牛的分享，如
   - [Graph Embedding 及其在知乎的实践](https://zhuanlan.zhihu.com/p/82962081)
