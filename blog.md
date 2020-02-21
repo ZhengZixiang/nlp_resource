@@ -39,6 +39,7 @@
 - [互联网时代的社会语言学：基于SNS的文本数据挖掘](http://www.matrix67.com/blog/archives/5044)
 - [基于凝聚度和自由度的非监督词库生成](http://zhanghonglun.cn/blog/project/基于凝聚度和自由度的非监督词库生成/)
 - [基于今日头条开源数据的词共现、新热词发现、短语发现](https://blog.csdn.net/sinat_26917383/article/details/80454736)
+- [限定域文本语料的短语挖掘（Phrase Mining）](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247485406&idx=2&sn=9a0b7f06184fb2da452620e429eca748&chksm=970c2f08a07ba61ec51fb36d5c2aabd8ba3c27b73eeebfd62118810ddf03acc6b541dccec9da&mpshare=1&scene=1&srcid=&sharer_sharetime=1578910444068&sharer_shareid=0958587d4e115417a79743c81caec1c8&key=7627459f896ffec6ae7c11ed405906976de16aa7f417bd3256d64fa3adaffd711eeb1ff1a670e66301822cde5f5148b337f2c33cf3e1d296ecb6fcfee7603324a894a41c2a04b366403d7314817c2719&ascene=1&uin=Mjg1NTM0NDcyMw%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=Ax7uvo1V12Jq6iLFFrMFelY%3D&pass_ticket=i8bk%2FT42OP%2F5AUId%2BQKi0Krdjm1I8rT3mWpp8xiOHSjbiYV5vSI%2F48loWKOZ29Yq)
 - [3分钟了解今日头条推荐算法原理（附视频+PPT）](http://www.sohu.com/a/217314007_297710)
 - [深度解析京东个性化推荐系统演进史](https://blog.csdn.net/qq_40027052/article/details/78733365)
 - [神盾推荐——MAB算法应用总结](https://mp.weixin.qq.com/s/Xyqwrf2RudGtbMtwoqCTYA)
@@ -50,3 +51,4 @@
 - [中文分词十年又回顾2007-2017--简报](https://zhuanlan.zhihu.com/p/56107108)
 - [正态分布的前世今生](https://github.com/panyang/AINLP-Resource/tree/master/rickjin)
 - [一文读懂深度学习中的N种卷积](https://mp.weixin.qq.com/s/6300oADp7QN5SDPrv2yAtQ)
+- [【杂谈】那些酷炫的深度学习网络图怎么画出来的？](https://zhuanlan.zhihu.com/p/60146525)
