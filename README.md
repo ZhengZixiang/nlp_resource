@@ -121,32 +121,12 @@
 ### 相关团队与实验室
 - [**Tencent AI Lab**](https://ai.tencent.com/ailab/nlp/)
 
-## 论文集与其他资源集
-- [**awesome graph neural network**](https://github.com/nnzhan/Awesome-Graph-Neural-Networks) - GNN资源集
-- [**awesome graph classification**](https://github.com/benedekrozemberczki/awesome-graph-classification) - 图分类资源集
-- [**awesome kaldi**](https://github.com/YoavRamon/awesome-kaldi) - Kaldi相关资源集
-- [**awesome knowledge graph**](https://github.com/shaoxiongji/awesome-knowledge-graph) - 知识图谱论文集
-- [**awesome knowledge graph**](https://github.com/husthuke/awesome-knowledge-graph) - 另一知识图谱资源集
-- [**awesome law nlp research work**](https://github.com/bamtercelboo/Awesome-Law-NLP-Research-Work) - 法律NLP工作资源集
-- [**awesome recsys**](https://github.com/chihming/competitive-recsys) - 推荐系统资源集
-- [**awesome relation extraction**](https://github.com/roomylee/awesome-relation-extraction) - 关系抽取资源集
-- [**awesome sentiment analysis**](https://github.com/laugustyniak/awesome-sentiment-analysis#papers)
-- [**awesome speech**](https://github.com/mxer/awesome-speech) - 语音资源集
-- [**awesome text generation**](https://github.com/ChenChengKuan/awesome-text-generation) - 文本生成资源集
-- [**awesome chinese nlp**](https://github.com/crownpku/Awesome-Chinese-NLP) - 中文自然语言处理资源集
-- [**DL-NLP-Readings**](https://github.com/IsaacChanghau/DL-NLP-Readings) - 他人的自然语言处理论文集
-- [**Deep Learning with Electronic Health Record (EHR) Systems**](https://practicalai.me/blog/deep-learning-with-ehr-systems) - 深度学习下电子病历系统研究
-- [**Research-Line**](https://github.com/ConanCui/Research-Line) - 他人的知识图谱、异构网络、图嵌入与推荐系统论文集
+## 资源集
+- 相关内容已另行整理至[awesome_list](https://github.com/ZhengZixiang/nlp_resource/blob/master/awesome_list.md)
+
+## 竞赛集
 - [**CDCS - Chinese Data Competitions Solutions**](https://github.com/geekinglcq/CDCS) - 中国数据竞赛优胜解集锦
-- [**classical reco papers**](https://github.com/wzhe06/Reco-papers) - 王喆大牛的推荐系统论文、学习资料、业界分享
-- [**工业界深度推荐系统与CTR预估必读的论文汇总**](https://zhuanlan.zhihu.com/p/83103245)
-- [**RecSys**](https://github.com/mJackie/RecSys) - 推荐系统/计算广告/机器学习/CTR预估资料汇总
-- [**MTPapers**](https://github.com/THUNLP-MT/MT-Reading-List) - 清华大学开源机器翻译必读论文集
-- [**NREPpapers**](https://github.com/thunlp/NREPapers) - 清华大学开源关系抽取必读论文集
-- [**GNNPapers**](https://github.com/thunlp/GNNPapers) - 清华大学开源图神经网络必读论文集
-- [**nlp-data-augmenta**](https://github.com/quincyliang/nlp-data-augmentation) - NLP数据增强资源集合
-- [**CDCS**](https://github.com/geekinglcq/CDCS) - 中国数据竞赛优胜解集锦
 - [**datawhalechina/competition-baseline**](https://github.com/datawhalechina/competition-baseline) - 数据科学竞赛各种baseline代码、思路分享
 
-## 中文语料资源建设
+## 数据集、语料与常用处理工具资源建设
 相关内容已另行整理至[nlp_corpus](https://github.com/ZhengZixiang/nlp_corpus)
