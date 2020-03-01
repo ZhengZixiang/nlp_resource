@@ -8,6 +8,7 @@
 - [**Deep Learning Book QA**](https://github.com/elviswf/DeepLearningBookQA_cn) - 深度学习花书QA
 - [**DL Interview**](https://github.com/ShanghaiTechAIClub/DLInterview) - 深度学习面试题收集
 - [**Interview-code-practice-python**](https://github.com/leeguandong/Interview-code-practice-python)
+- [**CodingInterviewChinese2**](https://github.com/zhedahht/CodingInterviewChinese2) - 剑指Offer第2版源代码
 - [**Jianzhi Offer C++ Implementation**](https://github.com/gatieme/CodingInterviews)
 - [**Jianzhi Offer Python Implementation**](https://github.com/JushuangQiao/Python-Offer)
 - [**Python & JAVA Solutions for Leetcode**](https://github.com/qiyuangong/leetcode)
