@@ -13,6 +13,10 @@
 - [**Jianzhi Offer Python Implementation**](https://github.com/JushuangQiao/Python-Offer)
 - [**Python & JAVA Solutions for Leetcode**](https://github.com/qiyuangong/leetcode)
 - [**leetcode题解**](https://github.com/azl397985856/leetcode) - 推荐
+- [**Making-It/Code**](https://github.com/Making-It/Code) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结
+- [**wolverinn/Waking-Up**](https://github.com/wolverinn/Waking-Up)
+- [**Jack-Cherish/LeetCode**](https://github.com/Jack-Cherish/LeetCode)
+- [**YaxeZhang/Just-Code**](https://github.com/YaxeZhang/Just-Code)
 - [**Top 10国际大厂人工智能岗位经典面试题精选**](https://mp.weixin.qq.com/s/FUpPIZP0hzUWNXZobjGYPw)
 - [**reverse-interview-zh**](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [**ML-NLP**](https://github.com/NLP-LOVE/ML-NLP) - 机器学习、NLP面试中常考到的知识点和代码实现
