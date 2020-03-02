@@ -1,5 +1,5 @@
 - [Neural Network Dialog System Papers](https://github.com/snakeztc/NeuralDialogPapers)
-- [awesome text generation](https://github.com/ChenChengKuan/awesome-text-generation) - 文本生成资源集
+- [awesome text generation](https://github.com/ChenChengKuan/awesome-text-generation)
 - [THUNLP | Poetry Generation Papers](https://github.com/THUNLP-AIPoet/PaperList)
 - [THUNLP | Text Generation Papers](https://github.com/THUNLP-MT/TG-Reading-List)
 - [THUNLP | Machine Translation Papers](https://github.com/THUNLP-MT/MT-Reading-List)
@@ -19,6 +19,7 @@
 - [awesome knowledge graph (husthuke)](https://github.com/husthuke/awesome-knowledge-graph)
 - [NREPapers2019](https://github.com/WindChimeRan/NREPapers2019)
 - [awesome relation extraction](https://github.com/roomylee/awesome-relation-extraction)
+- [EventExtractionPapers](https://github.com/BaptisteBlouin/EventExtractionPapers)
 - [awesome sentiment analysis](https://github.com/laugustyniak/awesome-sentiment-analysis#papers)
 - [awesome data augmentation](https://github.com/CrazyVertigo/awesome-data-augmentation)
 - [data augmentation review](https://github.com/AgaMiko/data-augmentation-review)
