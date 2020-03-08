@@ -1,7 +1,7 @@
 # 面试求职资源集锦
 - [**GitHub-Chinese-Top-Charts**](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#All-Language) - GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果
 - [**2019 Autumn Recruitment Experience**](https://github.com/zslomo/2019-Autumn-recruitment-experience)
-- [**Algorithm Interview Notes Chinese**](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
+- [**Algorithm Interview Notes Chinese**](https://github.com/DarLiner/Algorithm_Interview_Notes-Chinese)
 - [**CS-Notes**](https://github.com/CyC2018/CS-Notes) - 技术面试必备基础知识
 - [**cv-interview**](https://github.com/donnyyou/cv-interview) - CV岗常见面试题
 - [**Deep Learning 500 Questions**](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问
