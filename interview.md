@@ -13,8 +13,8 @@
 - [**Jianzhi Offer Python Implementation**](https://github.com/JushuangQiao/Python-Offer)
 - [**Python & JAVA Solutions for Leetcode**](https://github.com/qiyuangong/leetcode)
 - [**leetcode题解**](https://github.com/azl397985856/leetcode) - 推荐
-- [**Making-It/Code**](https://github.com/Making-It/Code) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结
-- [**wolverinn/Waking-Up**](https://github.com/wolverinn/Waking-Up)
+- [**Making-It/Code**](https://github.com/Making-It/Code)
+- [**wolverinn/Waking-Up**](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结
 - [**Jack-Cherish/LeetCode**](https://github.com/Jack-Cherish/LeetCode)
 - [**YaxeZhang/Just-Code**](https://github.com/YaxeZhang/Just-Code)
 - [**Top 10国际大厂人工智能岗位经典面试题精选**](https://mp.weixin.qq.com/s/FUpPIZP0hzUWNXZobjGYPw)
