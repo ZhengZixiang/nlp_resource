@@ -24,3 +24,4 @@
 - [**interview_internal_reference**](https://github.com/0voice/interview_internal_reference) - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总
 - [**AI Job Recommend**](https://github.com/amusi/AI-Job-Recommend)
 - [**Awesome Resume for Chinese**](https://github.com/dyweb/awesome-resume-for-chinese) - 适合中文的简历模板
+- [**labuladong/fucking-algorithm**](https://github.com/labuladong/fucking-algorithm)
