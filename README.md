@@ -32,8 +32,6 @@
 - [**tensorflow models**](https://github.com/tensorflow/models) - Google模型存放仓库
 - [**TorchNLP**](https://github.com/kolloldas/torchnlp) - 基于PyTorch和TorchText实现的深度学习自然语言处理库
 
-
-
 ### 预训练语言模型与Transformer
 相关内容已另行整理至[ATPapers](https://github.com/ZhengZixiang/ATPapers)
 
@@ -50,12 +48,8 @@
 部分相关内容已另行整理至[ABSAPapers](https://github.com/ZhengZixiang/ABSAPapers)
 - [**PyTorch Sentiment Analysis**](https://github.com/bentrevett/pytorch-sentiment-analysis) 基于PyTorch的情感分析教程
  
-### 自然语言推断
-包括文本匹配、问答等句对任务。
-- [**MatchZoo**](https://github.com/NTMC-Community/MatchZoo) - 实现多种深度文本匹配模型的基于TensorFlow的工具包
-- [**MatchZoo-py**](https://github.com/NTMC-Community/MatchZoo-py) - 上一项目的PyTorch版本
-- [**SPM_toolkit**](https://github.com/lanwuwei/SPM_toolkit) - COLING 2018一篇非常好[句对任务综述](https://arxiv.org/abs/1806.04330)作者提供的句对任务匹配工具包
-- [**text_matching**](https://github.com/pengming617/text_matching) 基于TensorFlow的多个语义匹配模型实现
+### 文本匹配
+相关内容已另行整理至[MatchPapers](https://github.com/ZhengZixiang/MatchPapers)
 
 ### 文本分类
 - [**cnn-text-classification-tf**](https://github.com/dennybritz/cnn-text-classification-tf) - 基于TensorFlow的CNN文本分类
@@ -94,15 +88,8 @@
 - [**LTP**](https://ltp.readthedocs.io/zh_CN/latest/index.html) -  哈工大社会计算与信息检索研究中心开源的统计自然语言处理工具包ji
 - [**MALLET**](http://mallet.cs.umass.edu) - 马萨诸塞大学开源的Java统计自然语言处理工具包
 - [**NLTK**](http://www.nltk.org) - 针对英文的工具包
-
 - [**Pan Gu Segment**](https://archive.codeplex.com/?p=pangusegment) - 盘古开源中文分词
 - [**Stanford CoreNLP**](https://nlp.stanford.edu/software/) - 斯坦福大学开源的统计自然语言处理工具包
-
-### ANN近似最近邻
-- [**LSHash**](https://github.com/kayzhu/LSHash) - 局部敏感哈希
-- [**NearPy**](https://github.com/pixelogik/NearPy)
-- [**Simhash**](https://github.com/leonsim/simhash)
-- [**FLANN**](https://github.com/primetang/pyflann)
 
 ### 其他常用工具
 - [**BeautifulSoup**](https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/) - 爬虫常用的HTML和XML数据提取工具
