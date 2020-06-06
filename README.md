@@ -58,6 +58,9 @@
 - [**NeuralClassifier**](https://github.com/Tencent/NeuralNLP-NeuralClassifier) - 腾讯开源的基于PyTorch的多模型多类型任务文本分类工具
 - [**Chinese-Text-Classification-Pytorch**](https://github.com/649453932/Chinese-Text-Classification-Pytorch) - 开箱即用的基于PyTorch实现的中文文本分类框架
 
+### 文本纠错
+- [**pycorrector**](https://github.com/shibing624/pycorrector) - 中文文本纠错工具
+
 ### 聊天机器人、对话系统与问答系统
 - [**BertQA**](https://github.com/ankit-ai/BertQA-Attention-on-Steroids) - 斯坦福大学BertQA实现
 - [**ChatBotCourse**](https://github.com/warmheartli/ChatBotCourse) - 自己动手做聊天机器人教程
