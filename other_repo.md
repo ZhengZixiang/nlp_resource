@@ -11,5 +11,21 @@
 - [Microsoft / NNI](https://github.com/microsoft/nni)
 - [Huawei / Vega](https://github.com/huawei-noah/vega) - AutoML tools chain
 
+### Adversarial Learning
+- [DSE-MSU / DeepRobust](https://github.com/DSE-MSU/DeepRobust) - A pytorch adversarial library for attack and defense methods on images and graphs
+- [lyakaap / VAT-pytorch](https://github.com/lyakaap/VAT-pytorch) - Virtual Adversarial Training (VAT) implementation for PyTorch
+- [9310gaurav / virtual-adversarial-training](https://github.com/9310gaurav/virtual-adversarial-training) - Pytorch implementation of Virtual Adversarial Training
+
+### Computer Vision
+- [vdumoulin / convolution arithmetic](https://github.com/vdumoulin/conv_arithmetic) - A technical report on convolution arithmetic in the context of deep learning
+
+### Graph Neural Network
+- [rusty1s / pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch
+- [zhouchunpong/GCN_Keras](https://github.com/zhouchunpong/GCN_Keras) - Graph Convolutional Network with Keras
+
 ### Others
 - [Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)
+
+### Tools
+- [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
+- [vaaaaanquish / cloudia](https://github.com/vaaaaanquish/cloudia) - Tools to easily create a word cloud
