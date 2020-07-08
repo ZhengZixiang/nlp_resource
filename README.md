@@ -69,6 +69,7 @@
 ### 关系抽取
 - [**OpenNRE**](https://github.com/thunlp/OpenNRE) - 清华开源的关系抽取框架（原基于TensorFlow，2.0版本已迁移到PyTorch）
 - [**OpenNRE-PyTorch**](https://github.com/ShulinCao/OpenNRE-PyTorch) - 上一项目的PyTorch版本
+- [**CasRel**](https://github.com/weizhepei/CasRel) - A Novel Cascade Binary Tagging Framework for Relational Triple Extraction. Accepted by ACL 2020.
 
 ### 知识图谱
 - [**lightKG**](https://github.com/smilelight/lightKG) - 他人基于PyTorch和TorchText实现的知识图谱技术框架
@@ -108,6 +109,7 @@
 - [**NLPJob**](http://www.nlpjob.com)
 - [**专知**](https://www.zhuanzhi.ai)
 - [**机器之心SOTA模型**](https://www.jiqizhixin.com/sota)
+- [**AI Deadlines**](https://github.com/abhshkdz/ai-deadlines) - AI conference deadline countdowns
 ### 相关团队与实验室
 - [**Tencent AI Lab**](https://ai.tencent.com/ailab/nlp/)
 
@@ -116,7 +118,11 @@
 
 ## 竞赛集
 - [**CDCS - Chinese Data Competitions Solutions**](https://github.com/geekinglcq/CDCS) - 中国数据竞赛优胜解集锦
-- [**datawhalechina/competition-baseline**](https://github.com/datawhalechina/competition-baseline) - 数据科学竞赛各种baseline代码、思路分享
+- [**AI-Sphere / Awesome-Noah**](https://github.com/AI-Sphere/Awesome-Noah) - Awesome Top Solution List of Excellent AI Competitions
+- [**datawhalechina / competition-baseline**](https://github.com/datawhalechina/competition-baseline) - 数据科学竞赛各种baseline代码、思路分享
+- [**LogicJake / MLCompetitionHub**](https://github.com/LogicJake/MLCompetitionHub) - Machine learning competition information aggregation
+- [**Smilexuhc / Data-Competition-TopSolution**](https://github.com/Smilexuhc/Data-Competition-TopSolution)
+- [**zhpmatrix / nlp-competitions-list-review**](https://github.com/zhpmatrix/nlp-competitions-list-review) - 复盘所有NLP比赛的TOP方案
 
 ## 数据集、语料与常用处理工具资源建设
 相关内容已另行整理至[nlp_corpus](https://github.com/ZhengZixiang/nlp_corpus)
