@@ -21,6 +21,7 @@
 
 ### Graph Neural Network
 - [facebookresearch / PyTorch-BigGraph](https://github.com/facebookresearch/PyTorch-BigGraph) - Generate embeddings from large-scale graph-structured data
+- [Kaleidophon / token2index](https://github.com/Kaleidophon/token2index) - A lightweight but powerful library to build token indices for NLP tasks
 - [rusty1s / pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch
 - [zhouchunpong / GCN_Keras](https://github.com/zhouchunpong/GCN_Keras) - Graph Convolutional Network with Keras
 
