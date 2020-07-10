@@ -22,10 +22,12 @@
 ### Graph Neural Network
 - [rusty1s / pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch
 - [zhouchunpong/GCN_Keras](https://github.com/zhouchunpong/GCN_Keras) - Graph Convolutional Network with Keras
-
-### Others
-- [Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)
+- [facebookresearch / PyTorch-BigGraph](https://github.com/facebookresearch/PyTorch-BigGraph) - Generate embeddings from large-scale graph-structured data
 
 ### Tools
 - [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
 - [vaaaaanquish / cloudia](https://github.com/vaaaaanquish/cloudia) - Tools to easily create a word cloud
+- [cgnorthcutt / cleanlab](https://github.com/cgnorthcutt/cleanlab) - Find label errors in datasets, weak supervision, and learning with noisy labels
+
+### Others
+- [Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)
