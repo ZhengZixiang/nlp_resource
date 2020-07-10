@@ -101,6 +101,7 @@
 - [**Pytorch模型训练实用教程**](https://github.com/TingsongYu/PyTorch_Tutorial)
 - [**SpeechBrain**](https://speechbrain.github.io) - 基于PyTorch的语音处理工具
 - [**wikiextractor**](https://github.com/attardi/wikiextractor) - 维基百科语料抽取工具
+- [**jbesomi / Texthero**](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero
 
 ## 网站与博客
 此处仅提供NLP相关站点，优秀博客请链接[blog.md](https://github.com/ZhengZixiang/nlp_resource/blob/master/blog.md)。
