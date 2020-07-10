@@ -12,9 +12,9 @@
 - [Huawei / Vega](https://github.com/huawei-noah/vega) - AutoML tools chain
 
 ### Adversarial Learning
+- [9310gaurav / virtual-adversarial-training](https://github.com/9310gaurav/virtual-adversarial-training) - Pytorch implementation of Virtual Adversarial Training
 - [DSE-MSU / DeepRobust](https://github.com/DSE-MSU/DeepRobust) - A pytorch adversarial library for attack and defense methods on images and graphs
 - [lyakaap / VAT-pytorch](https://github.com/lyakaap/VAT-pytorch) - Virtual Adversarial Training (VAT) implementation for PyTorch
-- [9310gaurav / virtual-adversarial-training](https://github.com/9310gaurav/virtual-adversarial-training) - Pytorch implementation of Virtual Adversarial Training
 
 ### Computer Vision
 - [vdumoulin / convolution arithmetic](https://github.com/vdumoulin/conv_arithmetic) - A technical report on convolution arithmetic in the context of deep learning
@@ -22,7 +22,7 @@
 ### Graph Neural Network
 - [facebookresearch / PyTorch-BigGraph](https://github.com/facebookresearch/PyTorch-BigGraph) - Generate embeddings from large-scale graph-structured data
 - [rusty1s / pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch
-- [zhouchunpong/GCN_Keras](https://github.com/zhouchunpong/GCN_Keras) - Graph Convolutional Network with Keras
+- [zhouchunpong / GCN_Keras](https://github.com/zhouchunpong/GCN_Keras) - Graph Convolutional Network with Keras
 
 ### Tools
 - [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
