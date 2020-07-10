@@ -8,12 +8,15 @@
 - [Doraemonzzz / Learning-from-data](https://github.com/Doraemonzzz/Learning-from-data) - 记录Learning from data一书中的习题解答
 - [eastlakeside / Python进阶中文版](https://github.com/eastlakeside/interpy-zh)
 - [fengdu78 / lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
+- [fly51fly / Practical_Python_Programming](https://github.com/fly51fly/Practical_Python_Programming) - 北邮《Python编程与实践》课程资料
+- [fly51fly / Principle-of-Web-Search](https://github.com/fly51fly/Principle-of-Web-Search) - 北京邮电大学“网络搜索原理”课程资料(2019)
 - [huzecong / oi-slides](https://github.com/huzecong/oi-slides) - 信息学竞赛讲课课件
 - [librauee / Reptile](https://github.com/librauee/Reptile) - Python3网络爬虫实战
 - [NiuTrans / MTBook](https://github.com/NiuTrans/MTBook) - 机器翻译：统计建模与深度学习方法
 - [邱锡鹏 / 神经网络与深度学习](https://nndl.github.io)
 - [Stanford / CS224n Spring 2019](http://web.stanford.edu/class/cs224n/)
 - [Stanford / Speech and Language Processing 3rd](https://web.stanford.edu/~jurafsky/slp3/)
+- [TingsongYu / PyTorch_Tutorial](https://github.com/TingsongYu/PyTorch_Tutorial) - PyTorch模型训练实用教程
 - [zibuyu / research_tao](https://github.com/zibuyu/research_tao) - NLP研究入门之道
 - [zxdefying / pytorch_tricks](https://github.com/zxdefying/pytorch_tricks) - some tircks for PyTorch
 
@@ -101,12 +104,12 @@
 - [**Stanford CoreNLP**](https://nlp.stanford.edu/software/) - 斯坦福大学开源的统计自然语言处理工具包
 
 ### 其他常用工具
-- [**BeautifulSoup**](https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/) - 爬虫常用的HTML和XML数据提取工具
-- [**FuzzyWuzzy**](https://github.com/seatgeek/fuzzywuzzy) - Python模糊匹配和编辑距离计算工具
-- [**Pytorch模型训练实用教程**](https://github.com/TingsongYu/PyTorch_Tutorial)
-- [**SpeechBrain**](https://speechbrain.github.io) - 基于PyTorch的语音处理工具
-- [**wikiextractor**](https://github.com/attardi/wikiextractor) - 维基百科语料抽取工具
-- [**jbesomi / Texthero**](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero
+- [attardi / wikiextractor](https://github.com/attardi/wikiextractor) - A tool for extracting plain text from Wikipedia dumps
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/) - 爬虫常用的HTML和XML数据提取工具
+- [Gerapy / GerapyAutoExtractor](https://github.com/Gerapy/GerapyAutoExtractor) - Auto Extractor Module
+- [jbesomi / Texthero**](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero
+- [seatgeek / FuzzyWuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
+- [SpeechBrain](https://speechbrain.github.io)
 
 ## 网站与博客
 此处仅提供NLP相关站点，优秀博客请链接[blog.md](https://github.com/ZhengZixiang/nlp_resource/blob/master/blog.md)。
