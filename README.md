@@ -2,16 +2,20 @@
 本仓库用于存放我个人所需要的和收集的自然语言处理以及部分其他领域的资源合集。
 
 ## 书籍、课程与笔记
-- [**Deep Learning Book**](https://www.deeplearningbook.org)
-- [**Deep Learning Book中文版**](https://github.com/exacity/deeplearningbook-chinese)
-- [**Learning from Data笔记**](https://github.com/Doraemonzzz/Learning-from-data)
-- [**Python进阶中文版**](https://github.com/eastlakeside/interpy-zh)
-- [**Speech and Language Processing第三版**](https://web.stanford.edu/~jurafsky/slp3/)
-- [**卡内基梅隆大学2019春 CS 11-747**](http://phontron.com/class/nn4nlp2019/index.html)
-- [**斯坦福大学2019春 CS224n**](http://web.stanford.edu/class/cs224n/)
-- [**神经网络与深度学习**](https://nndl.github.io) - 复旦邱锡鹏老师编写的教材
-- [**NLP研究入门之道**](https://github.com/zibuyu/research_tao) - 清华刘知远老师的NLP科研指导
-- [**统计学习方法笔记与代码实现**](https://github.com/fengdu78/lihang-code)
+- [CMU / CS 11-747 Spring 2019](http://phontron.com/class/nn4nlp2019/index.html)
+- [Deep Learning Book](https://www.deeplearningbook.org)
+- [Deep Learning Book中文版](https://github.com/exacity/deeplearningbook-chinese)
+- [Doraemonzzz / Learning-from-data](https://github.com/Doraemonzzz/Learning-from-data) - 记录Learning from data一书中的习题解答
+- [eastlakeside / Python进阶中文版](https://github.com/eastlakeside/interpy-zh)
+- [fengdu78 / lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
+- [huzecong / oi-slides](https://github.com/huzecong/oi-slides) - 信息学竞赛讲课课件
+- [librauee / Reptile](https://github.com/librauee/Reptile) - Python3网络爬虫实战
+- [NiuTrans / MTBook](https://github.com/NiuTrans/MTBook) - 机器翻译：统计建模与深度学习方法
+- [邱锡鹏 / 神经网络与深度学习](https://nndl.github.io)
+- [Stanford / CS224n Spring 2019](http://web.stanford.edu/class/cs224n/)
+- [Stanford / Speech and Language Processing 3rd](https://web.stanford.edu/~jurafsky/slp3/)
+- [zibuyu / research_tao](https://github.com/zibuyu/research_tao) - NLP研究入门之道
+- [zxdefying / pytorch_tricks](https://github.com/zxdefying/pytorch_tricks) - some tircks for PyTorch
 
 ## 代码、工具与项目
 ### 入门教程
@@ -75,7 +79,8 @@
 - [**lightKG**](https://github.com/smilelight/lightKG) - 他人基于PyTorch和TorchText实现的知识图谱技术框架
 
 ### 关键词抽取
-- [**keyword_extraction**](https://github.com/AimeeLee77/keyword_extraction) - 使用tfidf、TextRank和word2vec实现中文关键词抽取
+- [AimeeLee77 / keyword_extraction](https://github.com/AimeeLee77/keyword_extraction) - 使用tfidf、TextRank和word2vec实现中文关键词抽取
+- [sunyilgdx / SIFRank_zh](https://github.com/sunyilgdx/SIFRank_zh) - 基于预训练模型的中文关键词抽取方法
 
 ### 正则表达式
 - [**RegExr**](https://regexr.com/) - 正则表达式在线学习、测试与分析网站
