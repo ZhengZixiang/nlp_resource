@@ -3,6 +3,8 @@
 
 ## 书籍、课程与笔记
 - [CMU / CS 11-747 Spring 2019](http://phontron.com/class/nn4nlp2019/index.html)
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。
+- [dsgiitr/d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch) - This project reproduces the book Dive Into Deep Learning
 - [Deep Learning Book](https://www.deeplearningbook.org)
 - [Deep Learning Book中文版](https://github.com/exacity/deeplearningbook-chinese)
 - [Doraemonzzz / Learning-from-data](https://github.com/Doraemonzzz/Learning-from-data) - 记录Learning from data一书中的习题解答
