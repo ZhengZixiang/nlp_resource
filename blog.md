@@ -32,6 +32,7 @@
 ## Article
 - [PyTorch实战指南](https://zhuanlan.zhihu.com/p/29024978)
 - [PyTorch中如何处理RNN输入变长序列padding](https://zhuanlan.zhihu.com/p/34418001)
+- [丁香园 / 医疗搜索中的query词权重算法探索](https://mp.weixin.qq.com/s/JCdzhd1wBKIzDkoqW87OAg)
 - [教你几招搞定 LSTMs 的独门绝技（附代码）](https://zhuanlan.zhihu.com/p/40391002)
 - [TensorFlow Wide And Deep模型详解与应用](https://blog.csdn.net/heyc861221/article/details/80131369)
 - [初入NLP领域的一些小建议](https://zhuanlan.zhihu.com/p/59184256)
