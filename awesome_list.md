@@ -34,3 +34,4 @@
 - [awesome speech](https://github.com/mxer/awesome-speech)
 - [BaeSeulki / NL2LF](https://github.com/BaeSeulki/NL2LF) - The Resources for "Natural Language to Logical Form
 - [yechens / NL2SQL](https://github.com/yechens/NL2SQL) - Text2SQL语义解析数据集、解决方案、paper资源整合项目
+- [wangdongdut / PaperWriting](https://github.com/wangdongdut/PaperWriting) - Paper Writing General Guidelines
