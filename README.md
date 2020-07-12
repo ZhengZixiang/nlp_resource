@@ -19,7 +19,8 @@
 - [Stanford / CS224n Spring 2019](http://web.stanford.edu/class/cs224n/)
 - [Stanford / Speech and Language Processing 3rd](https://web.stanford.edu/~jurafsky/slp3/)
 - [TingsongYu / PyTorch_Tutorial](https://github.com/TingsongYu/PyTorch_Tutorial) - PyTorch模型训练实用教程
-- [zibuyu / research_tao](https://github.com/zibuyu/research_tao) - NLP研究入门之道
+- [Zhiyuan Liu / research_tao](https://github.com/zibuyu/research_tao) - NLP研究入门之道
+- [Zhiyuan Liu / Representation Learning for Natural Language Processing](https://rd.springer.com/book/10.1007%2F978-981-15-5573-2)
 - [zxdefying / pytorch_tricks](https://github.com/zxdefying/pytorch_tricks) - some tircks for PyTorch
 
 ## 代码、工具与项目
@@ -93,8 +94,6 @@
 
 ### 统计自然语言处理工具包
 - [**Apache OpenNLP**](http://opennlp.apache.org/) - Apache开源的Java统计自然语言处理工具包
-- [**CRF++**](https://taku910.github.io/crfpp/) - 条件随机场最好用的实现
-- [**Python CRFsuite**](https://github.com/scrapinghub/python-crfsuite) - 条件随机场工具CRFsuite的Python封装
 - [**FudanNLP**](https://github.com/FudanNLP/fnlp) - 复旦大学开源的统计自然语言处理工具包
 - [**HTK**](http://htk.eng.cam.ac.uk) - 基于马尔可夫模型开发的语音识别工具包
 - [**Jieba**](https://github.com/fxsjy/jieba) - 结巴分词是Python最常用中文分词
@@ -112,6 +111,7 @@
 - [jbesomi / Texthero**](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero
 - [seatgeek / FuzzyWuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
 - [SpeechBrain](https://speechbrain.github.io)
+- [yongzhuo / Macropodus](https://github.com/yongzhuo/Macropodus) - 自然语言处理工具Macropodus，基于Albert+BiLSTM+CRF深度学习网络架构
 
 ## 网站与博客
 此处仅提供NLP相关站点，优秀博客请链接[blog.md](https://github.com/ZhengZixiang/nlp_resource/blob/master/blog.md)。
