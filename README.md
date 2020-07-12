@@ -105,6 +105,7 @@
 - [**Stanford CoreNLP**](https://nlp.stanford.edu/software/) - 斯坦福大学开源的统计自然语言处理工具包
 
 ### 其他常用工具
+- [425776024 / nlpcda](https://github.com/425776024/nlpcda) - 一键中文数据增强包
 - [attardi / wikiextractor](https://github.com/attardi/wikiextractor) - A tool for extracting plain text from Wikipedia dumps
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/) - 爬虫常用的HTML和XML数据提取工具
 - [Gerapy / GerapyAutoExtractor](https://github.com/Gerapy/GerapyAutoExtractor) - Auto Extractor Module
