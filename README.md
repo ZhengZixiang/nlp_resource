@@ -62,11 +62,8 @@
 相关内容已另行整理至[MatchPapers](https://github.com/ZhengZixiang/MatchPapers)
 
 ### 文本分类
-- [**cnn-text-classification-tf**](https://github.com/dennybritz/cnn-text-classification-tf) - 基于TensorFlow的CNN文本分类
-- [**Text-Classification-Models-Pytorch**](https://github.com/AnubhavGupta3377/Text-Classification-Models-Pytorch) - 基于PyTorch实现多种文本分类模型
-- [**TextClassification-Pytorch**](https://github.com/songyingxin/TextClassification-Pytorch) - 基于PyTorch实现BERT前时代文本分类模型
-- [**NeuralClassifier**](https://github.com/Tencent/NeuralNLP-NeuralClassifier) - 腾讯开源的基于PyTorch的多模型多类型任务文本分类工具
-- [**Chinese-Text-Classification-Pytorch**](https://github.com/649453932/Chinese-Text-Classification-Pytorch) - 开箱即用的基于PyTorch实现的中文文本分类框架
+相关内容已另行整理至[TCPapers](https://github.com/ZhengZixiang/TCPapers)
+
 
 ### 文本纠错
 - [**pycorrector**](https://github.com/shibing624/pycorrector) - 中文文本纠错工具
@@ -89,8 +86,8 @@
 - [sunyilgdx / SIFRank_zh](https://github.com/sunyilgdx/SIFRank_zh) - 基于预训练模型的中文关键词抽取方法
 
 ### 正则表达式
-- [**RegExr**](https://regexr.com/) - 正则表达式在线学习、测试与分析网站
-- [**Regex Golf**](https://alf.nu/RegexGolf#accesstoken=W0EXx2_lRAMoEeGUVQBx) - 非常好用的经典正则表达式练习网站
+- [RegExr](https://regexr.com/) - 正则表达式在线学习、测试与分析网站
+- [Regex Golf](https://alf.nu/RegexGolf#accesstoken=W0EXx2_lRAMoEeGUVQBx) - 非常好用的经典正则表达式练习网站
 
 ### 统计自然语言处理工具包
 - [**Apache OpenNLP**](http://opennlp.apache.org/) - Apache开源的Java统计自然语言处理工具包
@@ -126,7 +123,7 @@
 - [**Tencent AI Lab**](https://ai.tencent.com/ailab/nlp/)
 
 ## 资源集
-- 相关内容已另行整理至[awesome_list](https://github.com/ZhengZixiang/nlp_resource/blob/master/awesome_list.md)
+- 相关内容已另行整理至[awesome_list.md](https://github.com/ZhengZixiang/nlp_resource/blob/master/awesome_list.md)
 
 ## 竞赛集
 - [**CDCS - Chinese Data Competitions Solutions**](https://github.com/geekinglcq/CDCS) - 中国数据竞赛优胜解集锦
@@ -137,4 +134,4 @@
 - [**zhpmatrix / nlp-competitions-list-review**](https://github.com/zhpmatrix/nlp-competitions-list-review) - 复盘所有NLP比赛的TOP方案
 
 ## 数据集、语料与常用处理工具资源建设
-相关内容已另行整理至[nlp_corpus](https://github.com/ZhengZixiang/nlp_corpus)
+相关内容已另行整理至[nlp_corpus.md](https://github.com/ZhengZixiang/nlp_corpus)
