@@ -82,8 +82,10 @@
 - [**lightKG**](https://github.com/smilelight/lightKG) - 他人基于PyTorch和TorchText实现的知识图谱技术框架
 
 ### 关键词抽取
+- [AdeDZY / DeepCT](https://github.com/AdeDZY/DeepCT) - DeepCT and HDCT uses BERT to generate novel, context-aware bag-of-words term weights for documents and queries
 - [AimeeLee77 / keyword_extraction](https://github.com/AimeeLee77/keyword_extraction) - 使用tfidf、TextRank和word2vec实现中文关键词抽取
 - [sunyilgdx / SIFRank_zh](https://github.com/sunyilgdx/SIFRank_zh) - 基于预训练模型的中文关键词抽取方法
+- [THUNLP / BERT-KPE](https://github.com/thunlp/BERT-KPE) - BERT for Keyphrase Extraction
 
 ### 正则表达式
 - [RegExr](https://regexr.com/) - 正则表达式在线学习、测试与分析网站
@@ -106,7 +108,7 @@
 - [attardi / wikiextractor](https://github.com/attardi/wikiextractor) - A tool for extracting plain text from Wikipedia dumps
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/) - 爬虫常用的HTML和XML数据提取工具
 - [Gerapy / GerapyAutoExtractor](https://github.com/Gerapy/GerapyAutoExtractor) - Auto Extractor Module
-- [jbesomi / Texthero**](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero
+- [jbesomi / Texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero
 - [seatgeek / FuzzyWuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
 - [SpeechBrain](https://speechbrain.github.io)
 - [yongzhuo / Macropodus](https://github.com/yongzhuo/Macropodus) - 自然语言处理工具Macropodus，基于Albert+BiLSTM+CRF深度学习网络架构
