@@ -30,9 +30,11 @@
   - [Graph Embedding 及其在知乎的实践](https://zhuanlan.zhihu.com/p/82962081)
 
 ## Article
+- [PaperWeekly / NLP中各框架对变长序列的处理全解](https://mp.weixin.qq.com/s/KxgA1U-mh9Tc1J1T9Aedrw)
 - [PyTorch实战指南](https://zhuanlan.zhihu.com/p/29024978)
 - [PyTorch中如何处理RNN输入变长序列padding](https://zhuanlan.zhihu.com/p/34418001)
 - [丁香园 / 医疗搜索中的query词权重算法探索](https://mp.weixin.qq.com/s/JCdzhd1wBKIzDkoqW87OAg)
+- [夕小瑶的卖萌屋 / 万字长文梳理文本生成评价指标](https://zhuanlan.zhihu.com/p/144182853)
 - [教你几招搞定 LSTMs 的独门绝技（附代码）](https://zhuanlan.zhihu.com/p/40391002)
 - [TensorFlow Wide And Deep模型详解与应用](https://blog.csdn.net/heyc861221/article/details/80131369)
 - [初入NLP领域的一些小建议](https://zhuanlan.zhihu.com/p/59184256)
