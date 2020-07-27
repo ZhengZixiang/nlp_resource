@@ -26,3 +26,4 @@
 - [Awesome Resume for Chinese](https://github.com/dyweb/awesome-resume-for-chinese) - 适合中文的简历模板
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
 - [NLP_ability](https://github.com/DA-southampton/NLP_ability)
+- [sladesha / Reflection_Summary](https://github.com/sladesha/Reflection_Summary) - 算法理论基础知识应知应会
