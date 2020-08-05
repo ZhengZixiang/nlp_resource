@@ -15,6 +15,10 @@
 - [9310gaurav / virtual-adversarial-training](https://github.com/9310gaurav/virtual-adversarial-training) - Pytorch implementation of Virtual Adversarial Training
 - [DSE-MSU / DeepRobust](https://github.com/DSE-MSU/DeepRobust) - A pytorch adversarial library for attack and defense methods on images and graphs
 - [lyakaap / VAT-pytorch](https://github.com/lyakaap/VAT-pytorch) - Virtual Adversarial Training (VAT) implementation for PyTorch
+- [THUNLP / OpenAttack](https://github.com/thunlp/OpenAttack]) - About An Open-Source Package for Textual Adversarial Attack.
+
+### Transfer Learning
+- [THUML / Transfer-Learning-Library](https://github.com/thuml/Transfer-Learning-Library)
 
 ### Computer Vision
 - [vdumoulin / convolution arithmetic](https://github.com/vdumoulin/conv_arithmetic) - A technical report on convolution arithmetic in the context of deep learning
@@ -23,6 +27,11 @@
 - [facebookresearch / PyTorch-BigGraph](https://github.com/facebookresearch/PyTorch-BigGraph) - Generate embeddings from large-scale graph-structured data
 - [rusty1s / pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch
 - [zhouchunpong / GCN_Keras](https://github.com/zhouchunpong/GCN_Keras) - Graph Convolutional Network with Keras
+
+### Serving
+- [PyTorch / serve](https://github.com/pytorch/serve) - Model Serving on PyTorch
+- [Tensorflow / serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
+- [Microsoft / MMdnn](https://github.com/microsoft/MMdnn) - A set of tools to help users inter-operate among different deep learning frameworks
 
 ### Tools
 - [cgnorthcutt / cleanlab](https://github.com/cgnorthcutt/cleanlab) - Find label errors in datasets, weak supervision, and learning with noisy labels
