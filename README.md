@@ -54,16 +54,14 @@
 ### 机器阅读理解
 相关内容已另行整理至[MRCPapers](https://github.com/ZhengZixiang/MRCPapers)
 
-### 情感分析
-部分相关内容已另行整理至[ABSAPapers](https://github.com/ZhengZixiang/ABSAPapers)
-- [**PyTorch Sentiment Analysis**](https://github.com/bentrevett/pytorch-sentiment-analysis) 基于PyTorch的情感分析教程
+### 方面级情感分析
+相关内容已另行整理至[ABSAPapers](https://github.com/ZhengZixiang/ABSAPapers)
  
 ### 文本匹配
 相关内容已另行整理至[MatchPapers](https://github.com/ZhengZixiang/MatchPapers)
 
 ### 文本分类
 相关内容已另行整理至[TCPapers](https://github.com/ZhengZixiang/TCPapers)
-
 
 ### 文本纠错
 - [**pycorrector**](https://github.com/shibing624/pycorrector) - 中文文本纠错工具
@@ -86,6 +84,10 @@
 - [AimeeLee77 / keyword_extraction](https://github.com/AimeeLee77/keyword_extraction) - 使用tfidf、TextRank和word2vec实现中文关键词抽取
 - [sunyilgdx / SIFRank_zh](https://github.com/sunyilgdx/SIFRank_zh) - 基于预训练模型的中文关键词抽取方法
 - [THUNLP / BERT-KPE](https://github.com/thunlp/BERT-KPE) - BERT for Keyphrase Extraction
+
+### 依存句法分析
+- [Baidu / DDParser](https://github.com/baidu/DDParser)
+- [yzhangcs / parser](https://github.com/yzhangcs/parser) - A collection of state-of-the-art syntactic parsing models based on Biaffine Parser
 
 ### 正则表达式
 - [RegExr](https://regexr.com/) - 正则表达式在线学习、测试与分析网站
