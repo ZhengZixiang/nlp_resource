@@ -15,6 +15,7 @@
 - [huzecong / oi-slides](https://github.com/huzecong/oi-slides) - 信息学竞赛讲课课件
 - [librauee / Reptile](https://github.com/librauee/Reptile) - Python3网络爬虫实战
 - [NiuTrans / MTBook](https://github.com/NiuTrans/MTBook) - 机器翻译：统计建模与深度学习方法
+- [npubird / KnowledgeGraphCourse](https://github.com/npubird/KnowledgeGraphCourse) - 东南大学《知识图谱》研究生课程
 - [邱锡鹏 / 神经网络与深度学习](https://nndl.github.io)
 - [Stanford / CS224n Spring 2019](http://web.stanford.edu/class/cs224n/)
 - [Stanford / Speech and Language Processing 3rd](https://web.stanford.edu/~jurafsky/slp3/)
