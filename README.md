@@ -20,6 +20,7 @@
 - [Stanford / CS224n Spring 2019](http://web.stanford.edu/class/cs224n/)
 - [Stanford / Speech and Language Processing 3rd](https://web.stanford.edu/~jurafsky/slp3/)
 - [TingsongYu / PyTorch_Tutorial](https://github.com/TingsongYu/PyTorch_Tutorial) - PyTorch模型训练实用教程
+- [XiaoMi / MiNLP](https://github.com/XiaoMi/MiNLP) - XiaoMi Natural Language Processing Toolkits
 - [Zhiyuan Liu / research_tao](https://github.com/zibuyu/research_tao) - NLP研究入门之道
 - [Zhiyuan Liu / Representation Learning for Natural Language Processing](https://rd.springer.com/book/10.1007%2F978-981-15-5573-2)
 - [zxdefying / pytorch_tricks](https://github.com/zxdefying/pytorch_tricks) - some tircks for PyTorch
