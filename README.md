@@ -15,6 +15,7 @@
 - [huzecong / oi-slides](https://github.com/huzecong/oi-slides) - 信息学竞赛讲课课件
 - [librauee / Reptile](https://github.com/librauee/Reptile) - Python3网络爬虫实战
 - [NiuTrans / MTBook](https://github.com/NiuTrans/MTBook) - 机器翻译：统计建模与深度学习方法
+- [NiuTrans / CNSurvey](https://github.com/NiuTrans/CNSurvey) - 一份中文综述文章列表（自然语言处理&机器学习）
 - [npubird / KnowledgeGraphCourse](https://github.com/npubird/KnowledgeGraphCourse) - 东南大学《知识图谱》研究生课程
 - [邱锡鹏 / 神经网络与深度学习](https://nndl.github.io)
 - [Stanford / CS224n Spring 2019](http://web.stanford.edu/class/cs224n/)
@@ -50,7 +51,7 @@
 ### 机器翻译
 相关内容已另行整理至[MTPapers](https://github.com/ZhengZixiang/MTPapers)
 
-### 命名实体识别
+### 命名实体识别与关系抽取
 相关内容已另行整理至[NERPapers](https://github.com/ZhengZixiang/NERPapers)
 
 ### 机器阅读理解
@@ -72,11 +73,6 @@
 - [**BertQA**](https://github.com/ankit-ai/BertQA-Attention-on-Steroids) - 斯坦福大学BertQA实现
 - [**ChatBotCourse**](https://github.com/warmheartli/ChatBotCourse) - 自己动手做聊天机器人教程
 - [**kbqa**](https://github.com/wavewangyue/kbqa) - 基于知识库的问答系统实现
-
-### 关系抽取
-- [**OpenNRE**](https://github.com/thunlp/OpenNRE) - 清华开源的关系抽取框架（原基于TensorFlow，2.0版本已迁移到PyTorch）
-- [**OpenNRE-PyTorch**](https://github.com/ShulinCao/OpenNRE-PyTorch) - 上一项目的PyTorch版本
-- [**CasRel**](https://github.com/weizhepei/CasRel) - A Novel Cascade Binary Tagging Framework for Relational Triple Extraction. Accepted by ACL 2020.
 
 ### 知识图谱
 - [**lightKG**](https://github.com/smilelight/lightKG) - 他人基于PyTorch和TorchText实现的知识图谱技术框架
@@ -119,14 +115,19 @@
 
 ## 网站与博客
 此处仅提供NLP相关站点，优秀博客请链接[blog.md](https://github.com/ZhengZixiang/nlp_resource/blob/master/blog.md)。
-- [**AI研习社**](https://www.yanxishe.com)
-- [**NLP Progress**](https://nlpprogress.com/)
-- [**NLPJob**](http://www.nlpjob.com)
-- [**专知**](https://www.zhuanzhi.ai)
-- [**机器之心SOTA模型**](https://www.jiqizhixin.com/sota)
-- [**AI Deadlines**](https://github.com/abhshkdz/ai-deadlines) - AI conference deadline countdowns
-### 相关团队与实验室
-- [**Tencent AI Lab**](https://ai.tencent.com/ailab/nlp/)
+- [AI研习社](https://www.yanxishe.com)
+- [NLP Progress](https://nlpprogress.com/)
+- [NLPJob](http://www.nlpjob.com)
+- [专知](https://www.zhuanzhi.ai)
+- [机器之心SOTA模型](https://www.jiqizhixin.com/sota)
+- [AI Deadlines](https://github.com/abhshkdz/ai-deadlines) - AI conference deadline countdowns
+
+## 相关团队与实验室
+- [NiuTrans](https://github.com/NiuTrans)
+- [NJUNLP](https://github.com/NJUNLP)
+- [SIAT-NLP](https://github.com/SIAT-NLP)
+- [Tencent AI Lab](https://ai.tencent.com/ailab/nlp/)
+- [THUNLP](https://github.com/THUNLP)
 
 ## 资源集
 - 相关内容已另行整理至[awesome_list.md](https://github.com/ZhengZixiang/nlp_resource/blob/master/awesome_list.md)
