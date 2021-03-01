@@ -17,33 +17,38 @@
 - [NiuTrans / MTBook](https://github.com/NiuTrans/MTBook) - 机器翻译：统计建模与深度学习方法
 - [NiuTrans / CNSurvey](https://github.com/NiuTrans/CNSurvey) - 一份中文综述文章列表（自然语言处理&机器学习）
 - [npubird / KnowledgeGraphCourse](https://github.com/npubird/KnowledgeGraphCourse) - 东南大学《知识图谱》研究生课程
-- [邱锡鹏 / 神经网络与深度学习](https://nndl.github.io)
+- [Xipeng Qiu / 神经网络与深度学习](https://nndl.github.io)
+- [ShusenTang / Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) - 动手学深度学习
 - [Stanford / CS224n Spring 2019](http://web.stanford.edu/class/cs224n/)
 - [Stanford / Speech and Language Processing 3rd](https://web.stanford.edu/~jurafsky/slp3/)
 - [TingsongYu / PyTorch_Tutorial](https://github.com/TingsongYu/PyTorch_Tutorial) - PyTorch模型训练实用教程
-- [XiaoMi / MiNLP](https://github.com/XiaoMi/MiNLP) - XiaoMi Natural Language Processing Toolkits
 - [Zhiyuan Liu / research_tao](https://github.com/zibuyu/research_tao) - NLP研究入门之道
 - [Zhiyuan Liu / Representation Learning for Natural Language Processing](https://rd.springer.com/book/10.1007%2F978-981-15-5573-2)
 - [zxdefying / pytorch_tricks](https://github.com/zxdefying/pytorch_tricks) - some tircks for PyTorch
 
 ## 代码、工具与项目
 ### 入门教程
-- [**nlp-tutorial**](https://github.com/lyeoni/nlp-tutorial) - 基于PyTorch的深度学习NLP入门代码
-- [**NLP-Projects**](https://github.com/gaoisbest/NLP-Projects) - NLP多种类型项目合集
-- [**Pandas cookbook**](https://github.com/jvns/pandas-cookbook) - pandas入门教程
-- [**PyTorch Tutorial**](https://github.com/yunjey/pytorch-tutorial) - PyTorch入门教程
+- [gaoisbest / NLP-Projects](https://github.com/gaoisbest/NLP-Projects)
+- [jvns / Pandas cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
+- [leerumor / nlp_tutorial](https://github.com/leerumor/nlp_tutorial) - NLP超强入门指南，包括各任务sota模型汇总（文本分类、文本匹配、序列标注、文本生成、语言模型），以及代码、技巧
+- [lyeoni / nlp-tutorial](https://github.com/lyeoni/nlp-tutorial) - A list of NLP tutorials
+- [yunjey / PyTorch Tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
 
 ### 通用深度学习自然语言处理框架与工具
-- [**AllenNLP**](https://allennlp.org) - Allen团队开发的基于PyTorch的NLP框架，其中有包括ELMo等多种模型实现
-- [**fastNLP**](https://github.com/fastnlp/fastNLP) - 复旦大学深度学习自然语言处理框架
-- [**flair**](https://github.com/zalandoresearch/flair) - 轻量级NLP框架
-- [**Jiagu**](https://github.com/ownthink/Jiagu) - 基于BiLSTM实现的中文深度学习自然语言处理工具，提供多种中文信息处理基本功能
-- [**Kashgari**](https://github.com/BrikerMan/Kashgari) - 基于Keras的精简自然语言处理框架，可用于文本标注与文本分类任务，值得一试
-- [**PyText**](https://github.com/facebookresearch/pytext) - Facebook开源的基于PyTorch的自然语言处理框架
-- [**StanfordNLP**](https://stanfordnlp.github.io/stanfordnlp/index.html) - 斯坦福大学基于PyTorch开发的自然语言处理工具，可用于分词、序列标注等任务，Stanford CoreNLP的深度学习版替代品
-- [**tensor2tensor**](https://github.com/tensorflow/tensor2tensor) - Google研究团队深度学习模型和相关数据集的集中代码仓库，包含多种NLP模型
-- [**tensorflow models**](https://github.com/tensorflow/models) - Google模型存放仓库
-- [**TorchNLP**](https://github.com/kolloldas/torchnlp) - 基于PyTorch和TorchText实现的深度学习自然语言处理库
+- [AllenAI / AllenNLP](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
+- [BrikerMan / Kashgari](https://github.com/BrikerMan/Kashgari) - Kashgari is a production-level NLP Transfer learning framework built on top of tf.keras for text-labeling and text-classification
+- [dmlc / gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy
+- [FacebookResearch / PyText](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch
+- [fastNLP / fastNLP](https://github.com/fastnlp/fastNLP) - A Modularized and Extensible NLP Framework. Currently still in incubation.
+- [flairNLP / flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing
+- [huggingface / transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
+- [kolloldas / TorchNLP](https://github.com/kolloldas/torchnlp) - Easy to use NLP library built on PyTorch and TorchText
+- [ownthink / Jiagu](https://github.com/ownthink/Jiagu) - Jiagu深度学习自然语言处理工具
+- [RUCAIBox / TextBox](https://github.com/RUCAIBox/TextBox) - An open-source library for building text generation system
+- [StanfordNLP / stanza](https://github.com/stanfordnlp/stanza/) - Official Stanford NLP Python Library for Many Human Languages
+- [TensorFlow / tensor2tensor](https://github.com/tensorflow/tensor2tensor) - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
+- [Tensorflow / models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
+- [XiaoMi / MiNLP](https://github.com/XiaoMi/MiNLP) - XiaoMi Natural Language Processing Toolkits
 
 ### 预训练语言模型与Transformer
 相关内容已另行整理至[ATPapers](https://github.com/ZhengZixiang/ATPapers)
@@ -54,7 +59,7 @@
 ### 命名实体识别与关系抽取
 相关内容已另行整理至[NERPapers](https://github.com/ZhengZixiang/NERPapers)
 
-### 机器阅读理解
+### 机器阅读理解与问答系统
 相关内容已另行整理至[MRCPapers](https://github.com/ZhengZixiang/MRCPapers)
 
 ### 方面级情感分析
@@ -68,11 +73,6 @@
 
 ### 文本纠错
 - [**pycorrector**](https://github.com/shibing624/pycorrector) - 中文文本纠错工具
-
-### 聊天机器人、对话系统与问答系统
-- [**BertQA**](https://github.com/ankit-ai/BertQA-Attention-on-Steroids) - 斯坦福大学BertQA实现
-- [**ChatBotCourse**](https://github.com/warmheartli/ChatBotCourse) - 自己动手做聊天机器人教程
-- [**kbqa**](https://github.com/wavewangyue/kbqa) - 基于知识库的问答系统实现
 
 ### 知识图谱
 - [**lightKG**](https://github.com/smilelight/lightKG) - 他人基于PyTorch和TorchText实现的知识图谱技术框架
@@ -92,16 +92,16 @@
 - [Regex Golf](https://alf.nu/RegexGolf#accesstoken=W0EXx2_lRAMoEeGUVQBx) - 非常好用的经典正则表达式练习网站
 
 ### 统计自然语言处理工具包
-- [**Apache OpenNLP**](http://opennlp.apache.org/) - Apache开源的Java统计自然语言处理工具包
-- [**FudanNLP**](https://github.com/FudanNLP/fnlp) - 复旦大学开源的统计自然语言处理工具包
-- [**HTK**](http://htk.eng.cam.ac.uk) - 基于马尔可夫模型开发的语音识别工具包
-- [**Jieba**](https://github.com/fxsjy/jieba) - 结巴分词是Python最常用中文分词
-- [**KenLM**](https://kheafield.com/code/kenlm/) - 统计语言模型工具
-- [**LTP**](https://ltp.readthedocs.io/zh_CN/latest/index.html) -  哈工大社会计算与信息检索研究中心开源的统计自然语言处理工具包ji
-- [**MALLET**](http://mallet.cs.umass.edu) - 马萨诸塞大学开源的Java统计自然语言处理工具包
-- [**NLTK**](http://www.nltk.org) - 针对英文的工具包
-- [**Pan Gu Segment**](https://archive.codeplex.com/?p=pangusegment) - 盘古开源中文分词
-- [**Stanford CoreNLP**](https://nlp.stanford.edu/software/) - 斯坦福大学开源的统计自然语言处理工具包
+- [Apache OpenNLP](http://opennlp.apache.org/) - Apache开源的Java统计自然语言处理工具包
+- [FudanNLP](https://github.com/FudanNLP/fnlp) - 复旦大学开源的统计自然语言处理工具包
+- [HTK](http://htk.eng.cam.ac.uk) - 基于马尔可夫模型开发的语音识别工具包
+- [Jieba](https://github.com/fxsjy/jieba) - 结巴分词是Python最常用中文分词
+- [KenLM](https://kheafield.com/code/kenlm/) - 统计语言模型工具
+- [LTP](https://ltp.readthedocs.io/zh_CN/latest/index.html) -  哈工大社会计算与信息检索研究中心开源的统计自然语言处理工具包ji
+- [MALLET](http://mallet.cs.umass.edu) - 马萨诸塞大学开源的Java统计自然语言处理工具包
+- [NLTK](http://www.nltk.org) - 针对英文的工具包
+- [Pan Gu Segment](https://archive.codeplex.com/?p=pangusegment) - 盘古开源中文分词
+- [Stanford CoreNLP](https://nlp.stanford.edu/software/) - 斯坦福大学开源的统计自然语言处理工具包
 
 ### 其他常用工具
 - [425776024 / nlpcda](https://github.com/425776024/nlpcda) - 一键中文数据增强包
@@ -115,14 +115,16 @@
 
 ## 网站与博客
 此处仅提供NLP相关站点，优秀博客请链接[blog.md](https://github.com/ZhengZixiang/nlp_resource/blob/master/blog.md)。
+- [AI Deadlines](https://github.com/abhshkdz/ai-deadlines) - AI conference deadline countdowns
 - [AI研习社](https://www.yanxishe.com)
 - [NLP Progress](https://nlpprogress.com/)
 - [NLPJob](http://www.nlpjob.com)
 - [专知](https://www.zhuanzhi.ai)
+- [智源社区](https://hub.baai.ac.cn/?sort=new)
 - [机器之心SOTA模型](https://www.jiqizhixin.com/sota)
-- [AI Deadlines](https://github.com/abhshkdz/ai-deadlines) - AI conference deadline countdowns
 
 ## 相关团队与实验室
+- [FudanNLP](https://github.com/FudanNLP)
 - [NiuTrans](https://github.com/NiuTrans)
 - [NJUNLP](https://github.com/NJUNLP)
 - [SIAT-NLP](https://github.com/SIAT-NLP)
