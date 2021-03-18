@@ -44,11 +44,14 @@
 - [huggingface / transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [kolloldas / TorchNLP](https://github.com/kolloldas/torchnlp) - Easy to use NLP library built on PyTorch and TorchText
 - [ownthink / Jiagu](https://github.com/ownthink/Jiagu) - Jiagu深度学习自然语言处理工具
+- [QData / TextAttack](https://github.com/QData/TextAttack) - TextAttack 🐙 is a Python framework for adversarial attacks, data augmentation, and model training in NLP
 - [RUCAIBox / TextBox](https://github.com/RUCAIBox/TextBox) - An open-source library for building text generation system
 - [SpeechBrain / speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [StanfordNLP / stanza](https://github.com/stanfordnlp/stanza/) - Official Stanford NLP Python Library for Many Human Languages
 - [TensorFlow / tensor2tensor](https://github.com/tensorflow/tensor2tensor) - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 - [Tensorflow / models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
+- [THUNLP / OpenAttack](https://github.com/thunlp/OpenAttack) - An Open-Source Package for Textual Adversarial Attack.
+- [xhlulu / dl-translate](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library built on Huggingface transformers
 - [XiaoMi / MiNLP](https://github.com/XiaoMi/MiNLP) - XiaoMi Natural Language Processing Toolkits
 
 ### 预训练语言模型与Transformer
