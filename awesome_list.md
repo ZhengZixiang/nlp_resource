@@ -3,6 +3,7 @@
 - [teacherpeterpan / Question-Generation-Paper-List](https://github.com/teacherpeterpan/Question-Generation-Paper-List) - A summary of must-read papers for Neural Question Generation
 - [snakeztc / NeuralDialogPapers](https://github.com/snakeztc/NeuralDialogPapers)
 - [sz128 / NLU_datasets_with_task_oriented_dialogue](https://github.com/sz128/NLU_datasets_with_task_oriented_dialogue) - datasets of natural language understanding and dialogue state tracking
+- [yizhen20133868 / Awesome-SLU-Survey](https://github.com/yizhen20133868/Awesome-SLU-Survey) - Tracking the progress in SLU (resources, code, and new frontiers etc.)
 - [ChenChengKuan / awesome-text-generation](https://github.com/ChenChengKuan/awesome-text-generation)
 - [chingyaoc / pytorch-REINFORCE](https://github.com/chingyaoc/pytorch-REINFORCE) - PyTorch Implementation of REINFORCE for both discrete & continuous control
 - [The Big Bad NLP Database](https://datasets.quantumstat.com/)
@@ -44,3 +45,5 @@
 - [yechens / NL2SQL](https://github.com/yechens/NL2SQL) - Text2SQL语义解析数据集、解决方案、paper资源整合项目
 - [wangdongdut / PaperWriting](https://github.com/wangdongdut/PaperWriting) - Paper Writing General Guidelines
 - [he-y / Awesome-Pruning](https://github.com/he-y/Awesome-Pruning) - A curated list of neural network pruning resources.
+- [BDBC-KG-NLP / QA-Survey](https://github.com/BDBC-KG-NLP/QA-Survey) - 北航大数据高精尖中心研究张日崇团队对问答系统的调研。包括知识图谱问答系统（KBQA）和文本问答系统（TextQA），每类系统分别对学术界和工业界进行调研。
+- [zhijing-jin / Text_Style_Transfer_Survey](https://github.com/zhijing-jin/Text_Style_Transfer_Survey) - This repo collects the articles for text attribute transfer
