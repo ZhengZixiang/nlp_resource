@@ -45,6 +45,7 @@
 - [kolloldas / TorchNLP](https://github.com/kolloldas/torchnlp) - Easy to use NLP library built on PyTorch and TorchText
 - [ownthink / Jiagu](https://github.com/ownthink/Jiagu) - Jiagu深度学习自然语言处理工具
 - [RUCAIBox / TextBox](https://github.com/RUCAIBox/TextBox) - An open-source library for building text generation system
+- [SpeechBrain / speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [StanfordNLP / stanza](https://github.com/stanfordnlp/stanza/) - Official Stanford NLP Python Library for Many Human Languages
 - [TensorFlow / tensor2tensor](https://github.com/tensorflow/tensor2tensor) - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 - [Tensorflow / models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
