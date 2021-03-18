@@ -1,5 +1,10 @@
-- [Neural Network Dialog System Papers](https://github.com/snakeztc/NeuralDialogPapers)
-- [awesome text generation](https://github.com/ChenChengKuan/awesome-text-generation)
+- [AntixK / PyTorch-VAE](https://github.com/AntixK/PyTorch-VAE) - A Collection of Variational Autoencoders (VAE) in PyTorch
+- [bisheng / Awesome-QG](https://github.com/bisheng/Awesome-QG) - Question Generation Papers Collection
+- [teacherpeterpan / Question-Generation-Paper-List](https://github.com/teacherpeterpan/Question-Generation-Paper-List) - A summary of must-read papers for Neural Question Generation
+- [snakeztc / NeuralDialogPapers](https://github.com/snakeztc/NeuralDialogPapers)
+- [sz128 / NLU_datasets_with_task_oriented_dialogue](https://github.com/sz128/NLU_datasets_with_task_oriented_dialogue) - datasets of natural language understanding and dialogue state tracking
+- [ChenChengKuan / awesome-text-generation](https://github.com/ChenChengKuan/awesome-text-generation)
+- [chingyaoc / pytorch-REINFORCE](https://github.com/chingyaoc/pytorch-REINFORCE) - PyTorch Implementation of REINFORCE for both discrete & continuous control
 - [The Big Bad NLP Database](https://datasets.quantumstat.com/)
 - [THUNLP / Graph Neural Network Papers](https://github.com/thunlp/GNNPapers)
 - [THUNLP / Knowledge Representation Learning Papers](https://github.com/thunlp/KRLPapers)
@@ -20,6 +25,7 @@
 - [Research-Line](https://github.com/ConanCui/Research-Line) - 他人的知识图谱、异构网络、图嵌入与推荐系统论文集
 - [awesome knowledge graph (shaoxiongji)](https://github.com/shaoxiongji/awesome-knowledge-graph)
 - [awesome knowledge graph (husthuke)](https://github.com/husthuke/awesome-knowledge-graph)
+- [joeat1 / GNN_note](https://github.com/joeat1/GNN_note) - 图神经网络整理
 - [NREPapers2019](https://github.com/WindChimeRan/NREPapers2019)
 - [awesome relation extraction](https://github.com/roomylee/awesome-relation-extraction)
 - [EventExtractionPapers](https://github.com/BaptisteBlouin/EventExtractionPapers)
@@ -37,3 +43,4 @@
 - [BaeSeulki / NL2LF](https://github.com/BaeSeulki/NL2LF) - The Resources for "Natural Language to Logical Form
 - [yechens / NL2SQL](https://github.com/yechens/NL2SQL) - Text2SQL语义解析数据集、解决方案、paper资源整合项目
 - [wangdongdut / PaperWriting](https://github.com/wangdongdut/PaperWriting) - Paper Writing General Guidelines
+- [he-y / Awesome-Pruning](https://github.com/he-y/Awesome-Pruning) - A curated list of neural network pruning resources.
