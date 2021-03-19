@@ -11,6 +11,7 @@
 - [CodingInterviewChinese2](https://github.com/zhedahht/CodingInterviewChinese2) - 剑指Offer第2版源代码
 - [Jianzhi Offer C++ Implementation](https://github.com/gatieme/CodingInterviews)
 - [Jianzhi Offer Python Implementation](https://github.com/JushuangQiao/Python-Offer)
+- [km1994 / NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes) - 本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料
 - [Python & JAVA Solutions for Leetcode](https://github.com/qiyuangong/leetcode)
 - [leetcode题解](https://github.com/azl397985856/leetcode) - 推荐
 - [Making-It/Code](https://github.com/Making-It/Code)
