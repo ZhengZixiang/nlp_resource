@@ -128,11 +128,14 @@
 - [机器之心SOTA模型](https://www.jiqizhixin.com/sota)
 
 ## 相关团队与实验室
+- [Alibaba-NLP](https://github.com/Alibaba-NLP)
+- [Chatopera](https://github.com/chatopera)
 - [FudanNLP](https://github.com/FudanNLP)
 - [NiuTrans](https://github.com/NiuTrans)
 - [NJUNLP](https://github.com/NJUNLP)
 - [SIAT-NLP](https://github.com/SIAT-NLP)
 - [Tencent AI Lab](https://ai.tencent.com/ailab/nlp/)
+- [THUDM](https://github.com/THUDM)
 - [THUNLP](https://github.com/THUNLP)
 
 ## 资源集
